@@ -1,0 +1,958 @@
+[2025-03-21T23:33:31.330Z] debug: 	Importing configs...
+[2025-03-21T23:33:31.376Z] info: 	Commit hash: 51869ce70d9c0a6e11c5bd7b406bca5c806f1269
+[2025-03-21T23:33:31.377Z] info: 	Build date: 1735756224869
+[2025-03-21T23:33:31.419Z] info: 	Загрузчик модов: загружаем 2 мод(ов/а)...
+[2025-03-21T23:33:31.422Z] debug: 	Загрузчик модов: Мод SPTDynamicMaps отсутствует в файле order.json
+[2025-03-21T23:33:31.452Z] info: 	Мод server версии 2.3.6 от Fika загружен
+[2025-03-21T23:33:31.453Z] info: 	Мод SPT-DynamicMaps версии 0.5.3 от mpstark загружен
+[2025-03-21T23:33:31.535Z] info: 	Сервер: выполняем начальные коллбэки...
+[2025-03-21T23:33:31.535Z] debug: 	OS: x64 | Windows 10 Pro | win32
+[2025-03-21T23:33:31.536Z] debug: 	CPU: AMD Ryzen 5 5600 6-Core Processor               cores: 12
+[2025-03-21T23:33:31.536Z] debug: 	RAM: 31.91GB
+[2025-03-21T23:33:31.536Z] debug: 	PATH: RDpcU1BUXFNQVC5TZXJ2ZXIuZXhl
+[2025-03-21T23:33:31.537Z] debug: 	PATH: RDpcU1BUXFNQVC5TZXJ2ZXIuZXhl
+[2025-03-21T23:33:31.537Z] debug: 	Server: 3.10.5
+[2025-03-21T23:33:31.537Z] debug: 	Date: 1735756224869
+[2025-03-21T23:33:31.537Z] debug: 	Commit: 51869ce70d9c0a6e11c5bd7b406bca5c806f1269
+[2025-03-21T23:33:31.538Z] info: 	Импортируем базу данных...
+[2025-03-21T23:33:31.713Z] debug: 	Ошибка проверки файлов для файла: SPT_Data/Server/database/locales/server/ru.json
+[2025-03-21T23:33:35.781Z] info: 	Импорт базы данных завершен.
+[2025-03-21T23:33:35.835Z] debug: 	2 Profiles took: 4.20ms to load.
+[2025-03-21T23:33:39.522Z] debug: 	ID validation took: 1.49ms
+[2025-03-21T23:33:39.523Z] debug: 	Added custom boss wave to bigmap of type pmcUSEC, time: -1, chance: 50, zone: 
+[2025-03-21T23:33:39.523Z] debug: 	Added custom boss wave to bigmap of type pmcBEAR, time: -1, chance: 50, zone: 
+[2025-03-21T23:33:39.523Z] debug: 	Added custom boss wave to woods of type pmcUSEC, time: -1, chance: 50, zone: 
+[2025-03-21T23:33:39.523Z] debug: 	Added custom boss wave to woods of type pmcBEAR, time: -1, chance: 50, zone: 
+[2025-03-21T23:33:39.523Z] debug: 	Added custom boss wave to sandbox_high of type pmcUSEC, time: -1, chance: 50, zone: 
+[2025-03-21T23:33:39.523Z] debug: 	Added custom boss wave to sandbox_high of type pmcBEAR, time: -1, chance: 50, zone: 
+[2025-03-21T23:33:39.525Z] succ: 	Запускаем веб-сервер на http://127.0.0.1:6969
+[2025-03-21T23:33:39.525Z] succ: 	Запустили веб-сокет на ws://127.0.0.1:6969
+[2025-03-21T23:33:39.525Z] succ: 	Сервер запущен, Удачной игры!!
+[2025-03-21T23:33:39.724Z] debug: 	Profile backup created: user\profiles\backups\2025-03-22_01-33-35
+[2025-03-21T23:33:44.553Z] debug: 	Saved 2 profiles, took: 9.65ms
+[2025-03-21T23:33:45.776Z] info: 	[Запрос Клиента] /launcher/server/connect
+[2025-03-21T23:33:45.796Z] info: 	[Запрос Клиента] /launcher/ping
+[2025-03-21T23:33:45.798Z] info: 	[Запрос Клиента] /launcher/server/version
+[2025-03-21T23:33:45.804Z] info: 	[Запрос Клиента] /files/launcher/bg.png
+[2025-03-21T23:33:45.814Z] info: 	[Запрос Клиента] /launcher/ping
+[2025-03-21T23:33:45.856Z] info: 	[Запрос Клиента] /launcher/profile/login
+[2025-03-21T23:33:45.859Z] info: 	[Запрос Клиента] /launcher/profile/get
+[2025-03-21T23:33:45.862Z] info: 	[Запрос Клиента] /launcher/profile/info
+[2025-03-21T23:33:45.868Z] info: 	[Запрос Клиента] /launcher/server/version
+[2025-03-21T23:33:45.949Z] info: 	[Запрос Клиента] /launcher/server/loadedServerMods
+[2025-03-21T23:33:45.955Z] info: 	[Запрос Клиента] /launcher/server/serverModsUsedByProfile
+[2025-03-21T23:33:45.959Z] info: 	[Запрос Клиента] /launcher/profile/login
+[2025-03-21T23:33:45.961Z] info: 	[Запрос Клиента] /launcher/profile/get
+[2025-03-21T23:33:45.962Z] info: 	[Запрос Клиента] /launcher/profile/info
+[2025-03-21T23:33:45.963Z] info: 	[Запрос Клиента] /launcher/server/version
+[2025-03-21T23:33:53.083Z] info: 	[Запрос Клиента] /launcher/profile/login
+[2025-03-21T23:33:53.085Z] info: 	[Запрос Клиента] /launcher/profile/get
+[2025-03-21T23:33:53.086Z] info: 	[Запрос Клиента] /launcher/profile/info
+[2025-03-21T23:33:53.088Z] info: 	[Запрос Клиента] /launcher/server/version
+[2025-03-21T23:33:53.095Z] info: 	[Запрос Клиента] /launcher/server/version
+[2025-03-21T23:33:58.940Z] info: 	[Запрос Клиента] /singleplayer/bossconvert
+[2025-03-21T23:33:59.558Z] info: 	[Запрос Клиента] /fika/natpunchserver/config
+[2025-03-21T23:33:59.900Z] info: 	[Запрос Клиента] /fika/client/config
+[2025-03-21T23:33:59.928Z] info: 	[Запрос Клиента] /singleplayer/settings/bot/difficulties/
+[2025-03-21T23:34:00.032Z] info: 	[Запрос Клиента] /singleplayer/settings/bot/difficulty/core/core
+[2025-03-21T23:34:03.589Z] info: 	[Запрос Клиента] /singleplayer/settings/version
+[2025-03-21T23:34:03.591Z] info: 	[Запрос Клиента] /singleplayer/release
+[2025-03-21T23:34:03.596Z] info: 	[Запрос Клиента] /singleplayer/moddedTraders
+[2025-03-21T23:34:03.600Z] info: 	[Запрос Клиента] /singleplayer/enableBSGlogging
+[2025-03-21T23:34:04.071Z] info: 	[Запрос Клиента] /singleplayer/bundles
+[2025-03-21T23:34:04.561Z] debug: 	Saved 2 profiles, took: 1.01ms
+[2025-03-21T23:34:08.929Z] info: 	[Запрос Клиента] /singleplayer/settings/version
+[2025-03-21T23:34:09.001Z] info: 	[Запрос Клиента] /client/menu/locale/ru
+[2025-03-21T23:34:09.046Z] info: 	[Запрос Клиента] /client/game/mode
+[2025-03-21T23:34:09.079Z] info: 	[Запрос Клиента] /client/game/start
+[2025-03-21T23:34:09.133Z] info: 	[Запрос Клиента] /client/game/version/validate
+[2025-03-21T23:34:09.186Z] info: 	[Запрос Клиента] /client/languages
+[2025-03-21T23:34:09.245Z] info: 	[Запрос Клиента] /client/game/config
+[2025-03-21T23:34:12.171Z] info: 	[Запрос Клиента] /fika/client/check/version
+[2025-03-21T23:34:12.183Z] info: 	[Запрос Клиента] /fika/client/check/mods
+[2025-03-21T23:34:12.372Z] info: 	[Запрос Клиента] /client/items
+[2025-03-21T23:34:19.440Z] info: 	[Запрос Клиента] /client/customization
+[2025-03-21T23:34:19.614Z] info: 	[Запрос Клиента] /client/globals
+[2025-03-21T23:34:20.253Z] info: 	[Запрос Клиента] /client/trading/api/traderSettings
+[2025-03-21T23:34:20.306Z] info: 	[Запрос Клиента] /client/settings
+[2025-03-21T23:34:20.355Z] info: 	[Запрос Клиента] /client/game/profile/list
+[2025-03-21T23:34:20.464Z] info: 	[Запрос Клиента] /client/account/customization
+[2025-03-21T23:34:20.501Z] info: 	[Запрос Клиента] /client/locale/ru
+[2025-03-21T23:34:24.585Z] debug: 	Saved 2 profiles, took: 1.08ms
+[2025-03-21T23:34:44.623Z] debug: 	Saved 2 profiles, took: 1.08ms
+[2025-03-21T23:34:54.057Z] info: 	[Запрос Клиента] /launcher/profile/info
+[2025-03-21T23:34:54.059Z] info: 	[Запрос Клиента] /launcher/server/version
+[2025-03-21T23:35:04.653Z] debug: 	Saved 2 profiles, took: 1.07ms
+[2025-03-21T23:35:12.409Z] info: 	[Запрос Клиента] /client/game/profile/create
+[2025-03-21T23:35:12.432Z] debug: 	Quest Production Unlock validation took: 0.00ms
+[2025-03-21T23:35:12.432Z] debug: 	Updating generator area slots to a size of 6 + hideout management skill
+[2025-03-21T23:35:12.432Z] debug: 	Updating water collector area slots to a size of 1 + hideout management skill
+[2025-03-21T23:35:12.432Z] debug: 	Updating air filter area slots to a size of 3 + hideout management skill
+[2025-03-21T23:35:12.432Z] debug: 	Updating bitcoin farm area slots to a size of 50 + hideout management skill
+[2025-03-21T23:35:12.433Z] debug: 	generated player scav loadout with karma level 0
+[2025-03-21T23:35:12.526Z] info: 	[Запрос Клиента] /client/game/profile/list
+[2025-03-21T23:35:12.667Z] info: 	[Запрос Клиента] /client/game/profile/select
+[2025-03-21T23:35:12.697Z] info: 	[Запрос Клиента] /client/profile/status
+[2025-03-21T23:35:12.760Z] info: 	[Запрос Клиента] /client/weather
+[2025-03-21T23:35:12.762Z] info: 	[Запрос Клиента] /client/locations
+[2025-03-21T23:35:12.762Z] debug: 	Map: base has no base json file, skipping generation
+[2025-03-21T23:35:13.652Z] info: 	[Запрос Клиента] /client/handbook/templates
+[2025-03-21T23:35:15.026Z] info: 	[Запрос Клиента] /client/hideout/areas
+[2025-03-21T23:35:15.152Z] info: 	[Запрос Клиента] /client/hideout/qte/list
+[2025-03-21T23:35:15.183Z] info: 	[Запрос Клиента] /client/hideout/settings
+[2025-03-21T23:35:15.228Z] info: 	[Запрос Клиента] /client/hideout/production/recipes
+[2025-03-21T23:35:15.345Z] info: 	[Запрос Клиента] /client/builds/list
+[2025-03-21T23:35:15.442Z] debug: 	[Fika Notification Manager] User is 67dd9f490003edb807c3a899
+[2025-03-21T23:35:15.442Z] debug: 	[Fika Presence] Adding player: Homa_690
+[2025-03-21T23:35:15.442Z] info: 	WebSocketHandler "Fika Notification Manager" connected
+[2025-03-21T23:35:17.020Z] info: 	[Запрос Клиента] /singleplayer/log
+[2025-03-21T23:35:17.020Z] debug: 	[SPT.Core] 1184960
+[2025-03-21T23:35:17.024Z] info: 	[Запрос Клиента] /singleplayer/log
+[2025-03-21T23:35:17.024Z] debug: 	[SPT.Core] 1498960
+[2025-03-21T23:35:17.027Z] info: 	[Запрос Клиента] /singleplayer/log
+[2025-03-21T23:35:17.027Z] debug: 	[SPT.Core] 0
+[2025-03-21T23:35:18.023Z] info: 	[Запрос Клиента] /client/notifier/channel/create
+[2025-03-21T23:35:18.024Z] info: 	[Запрос Клиента] /client/profile/status
+[2025-03-21T23:35:18.024Z] info: 	[Запрос Клиента] /client/trading/customization/storage
+[2025-03-21T23:35:18.042Z] info: 	[WS] Игрок: Homa_690 (67dd9f490003edb807c3a899) присоединился
+[2025-03-21T23:35:18.042Z] info: 	WebSocketHandler "SPT WebSocket Handler" connected
+[2025-03-21T23:35:18.060Z] info: 	[Запрос Клиента] /client/server/list
+[2025-03-21T23:35:18.061Z] info: 	[Запрос Клиента] /client/match/group/current
+[2025-03-21T23:35:18.062Z] info: 	[Запрос Клиента] /client/friend/list
+[2025-03-21T23:35:18.064Z] info: 	[Запрос Клиента] /client/friend/request/list/inbox
+[2025-03-21T23:35:18.065Z] info: 	[Запрос Клиента] /client/mail/dialog/list
+[2025-03-21T23:35:18.065Z] info: 	[Запрос Клиента] /client/friend/request/list/outbox
+[2025-03-21T23:35:18.066Z] info: 	[Запрос Клиента] /client/quest/list
+[2025-03-21T23:35:18.175Z] info: 	[Запрос Клиента] /client/achievement/statistic
+[2025-03-21T23:35:18.219Z] info: 	[Запрос Клиента] /client/achievement/list
+[2025-03-21T23:35:18.411Z] info: 	[Запрос Клиента] /client/repeatalbeQuests/activityPeriods
+[2025-03-21T23:35:18.412Z] debug: 	Daily scav quests still locked, Intel center not built
+[2025-03-21T23:35:18.465Z] info: 	[Запрос Клиента] /client/survey
+[2025-03-21T23:35:18.922Z] info: 	[Запрос Клиента] /fika/presence/get
+[2025-03-21T23:35:23.580Z] info: 	[Запрос Клиента] /client/checkVersion
+[2025-03-21T23:35:24.704Z] debug: 	Saved 2 profiles, took: 6.98ms
+[2025-03-21T23:35:37.396Z] info: 	[Запрос Клиента] /singleplayer/settings/raid/menu
+[2025-03-21T23:35:39.076Z] info: 	[Запрос Клиента] /files/trader/avatar/59b91ca086f77469a81232e4.jpg
+[2025-03-21T23:35:39.108Z] info: 	[Запрос Клиента] /client/insurance/items/list/cost
+[2025-03-21T23:35:44.746Z] debug: 	Saved 2 profiles, took: 5.35ms
+[2025-03-21T23:35:48.148Z] info: 	[Запрос Клиента] /singleplayer/settings/raid/menu
+[2025-03-21T23:35:49.914Z] info: 	[Запрос Клиента] /fika/presence/set
+[2025-03-21T23:35:49.925Z] info: 	[Запрос Клиента] /fika/presence/get
+[2025-03-21T23:35:54.061Z] info: 	[Запрос Клиента] /launcher/profile/info
+[2025-03-21T23:35:54.063Z] info: 	[Запрос Клиента] /launcher/server/version
+[2025-03-21T23:35:54.063Z] info: 	[Запрос Клиента] /files/launcher/side_bear.png
+[2025-03-21T23:36:04.757Z] debug: 	Saved 2 profiles, took: 5.57ms
+[2025-03-21T23:36:24.789Z] debug: 	Saved 2 profiles, took: 5.65ms
+[2025-03-21T23:36:44.820Z] debug: 	Saved 2 profiles, took: 5.84ms
+[2025-03-21T23:36:48.047Z] debug: 	[WS] Пингуем игрока: 67dd9f490003edb807c3a899
+[2025-03-21T23:36:48.174Z] info: 	[Запрос Клиента] /client/game/profile/items/moving
+[2025-03-21T23:36:48.175Z] debug: 	event: Move
+[2025-03-21T23:36:48.175Z] debug: 	Move item: 67ddf7b0c9500b1c1c031ebf from slotid: hideout to container: main
+[2025-03-21T23:36:48.175Z] debug: 	event: Move
+[2025-03-21T23:36:48.176Z] debug: 	Move item: 67ddf7b0c9500b1c1c031eea from slotid: hideout to container: main
+[2025-03-21T23:36:48.176Z] debug: 	event: Split
+[2025-03-21T23:36:48.176Z] debug: 	event: Move
+[2025-03-21T23:36:48.176Z] debug: 	Move item: 67ddf7b0c9500b1c1c031e35 from slotid: Headwear to container: hideout
+[2025-03-21T23:36:48.176Z] debug: 	event: Move
+[2025-03-21T23:36:48.176Z] debug: 	Move item: 67ddf7b0c9500b1c1c031ed2 from slotid: hideout to container: Headwear
+[2025-03-21T23:36:48.176Z] debug: 	event: Move
+[2025-03-21T23:36:48.176Z] debug: 	Move item: 67ddf7b0c9500b1c1c031ece from slotid: hideout to container: Eyewear
+[2025-03-21T23:36:48.176Z] debug: 	event: Move
+[2025-03-21T23:36:48.176Z] debug: 	Move item: 67ddf7b0c9500b1c1c031ecf from slotid: hideout to container: FaceCover
+[2025-03-21T23:36:48.176Z] debug: 	event: Move
+[2025-03-21T23:36:48.177Z] debug: 	Move item: 67ddf7b0c9500b1c1c031e3d from slotid: 4 to container: main
+[2025-03-21T23:36:49.176Z] info: 	[Запрос Клиента] /fika/presence/set
+[2025-03-21T23:36:49.187Z] info: 	[Запрос Клиента] /fika/presence/get
+[2025-03-21T23:36:54.062Z] info: 	[Запрос Клиента] /launcher/profile/info
+[2025-03-21T23:36:54.063Z] info: 	[Запрос Клиента] /launcher/server/version
+[2025-03-21T23:36:54.524Z] info: 	[Запрос Клиента] /singleplayer/settings/raid/menu
+[2025-03-21T23:36:55.566Z] info: 	[Запрос Клиента] /client/insurance/items/list/cost
+[2025-03-21T23:36:57.856Z] info: 	[Запрос Клиента] /fika/raid/dedicated/getstatus
+[2025-03-21T23:36:57.867Z] info: 	[Запрос Клиента] /fika/location/raids
+[2025-03-21T23:36:57.881Z] info: 	[Запрос Клиента] /client/match/group/invite/cancel-all
+[2025-03-21T23:36:57.882Z] info: 	[Запрос Клиента] /client/raid/configuration
+[2025-03-21T23:36:57.911Z] info: 	[Запрос Клиента] /client/match/group/invite/cancel-all
+[2025-03-21T23:37:02.822Z] info: 	[Запрос Клиента] /fika/location/raids
+[2025-03-21T23:37:02.867Z] info: 	[Запрос Клиента] /fika/raid/create
+[2025-03-21T23:37:02.909Z] debug: 	Added 214 guaranteed containers
+[2025-03-21T23:37:02.922Z] debug: 	createStaticLootItem() No preset found for weapon: 620109578d82e67e7911abf2
+[2025-03-21T23:37:02.923Z] debug: 	Group: supplyBoxFood_N1_2_custom has no containers with < 100% spawn chance to choose from, skipping
+[2025-03-21T23:37:02.923Z] debug: 	Group: supplyBoxTools_N4_2_custom has no containers with < 100% spawn chance to choose from, skipping
+[2025-03-21T23:37:02.928Z] debug: 	Group: supplyBoxMedicine_N2_2_custom has no containers with < 100% spawn chance to choose from, skipping
+[2025-03-21T23:37:02.928Z] debug: 	Group: PlasticSuitcase_N25_2_custom has no containers with < 100% spawn chance to choose from, skipping
+[2025-03-21T23:37:02.930Z] debug: 	Group: supplyBoxTools_N3_2_custom has no containers with < 100% spawn chance to choose from, skipping
+[2025-03-21T23:37:02.935Z] succ: 	A total of 1010 static items spawned
+[2025-03-21T23:37:02.935Z] succ: 	Сгенерировано 305 статических контейнеров
+[2025-03-21T23:37:03.032Z] debug: 	Attempted to add a forced loot location with Id: kontr_crate1 [710da39d-ab22-440a-8f84-ffbffa25ad62] to map bigmap that already has that id in use, skipping
+[2025-03-21T23:37:03.032Z] debug: 	Attempted to add a forced loot location with Id: kontr_crate1 [710da39d-ab22-440a-8f84-ffbffa25ad62] to map bigmap that already has that id in use, skipping
+[2025-03-21T23:37:03.033Z] debug: 	Attempted to add a forced loot location with Id: kontr_crate2 [d9cbb4a8-d738-431e-8155-1cf9e8ee48e3] to map bigmap that already has that id in use, skipping
+[2025-03-21T23:37:03.033Z] debug: 	Attempted to add a forced loot location with Id: kontr_crate2 [d9cbb4a8-d738-431e-8155-1cf9e8ee48e3] to map bigmap that already has that id in use, skipping
+[2025-03-21T23:37:03.033Z] debug: 	Attempted to add a forced loot location with Id: kontr_crate3 [e67fe357-9ef4-4ae0-8934-6f8b0113bc04] to map bigmap that already has that id in use, skipping
+[2025-03-21T23:37:03.033Z] debug: 	Attempted to add a forced loot location with Id: kontr_crate3 [e67fe357-9ef4-4ae0-8934-6f8b0113bc04] to map bigmap that already has that id in use, skipping
+[2025-03-21T23:37:03.188Z] succ: 	Заспавнено 196 динамических предметов лута
+[2025-03-21T23:37:03.189Z] succ: 	Локация bigmap сгенерирована
+[2025-03-21T23:37:03.240Z] info: 	[Запрос Клиента] /client/raid/configuration
+[2025-03-21T23:37:03.289Z] info: 	[Запрос Клиента] /fika/update/ping
+[2025-03-21T23:37:03.334Z] info: 	[Запрос Клиента] /fika/update/sethost
+[2025-03-21T23:37:03.337Z] info: 	[Запрос Клиента] /fika/update/setstatus
+[2025-03-21T23:37:03.437Z] info: 	[Запрос Клиента] /client/match/group/exit_from_menu
+[2025-03-21T23:37:04.849Z] debug: 	Saved 2 profiles, took: 11.49ms
+[2025-03-21T23:37:24.383Z] info: 	[Запрос Клиента] /client/getMetricsConfig
+[2025-03-21T23:37:24.476Z] info: 	[Запрос Клиента] /singleplayer/settings/getRaidTime
+[2025-03-21T23:37:24.506Z] info: 	[Запрос Клиента] /client/raid/configuration
+[2025-03-21T23:37:24.555Z] info: 	[Запрос Клиента] /client/match/local/start
+[2025-03-21T23:37:24.859Z] debug: 	Saved 2 profiles, took: 5.41ms
+[2025-03-21T23:37:25.317Z] info: 	[Запрос Клиента] /fika/update/playerspawn
+[2025-03-21T23:37:40.140Z] info: 	[Запрос Клиента] /fika/update/ping
+[2025-03-21T23:37:44.892Z] debug: 	Saved 2 profiles, took: 1.94ms
+[2025-03-21T23:37:54.064Z] info: 	[Запрос Клиента] /launcher/profile/info
+[2025-03-21T23:37:54.066Z] info: 	[Запрос Клиента] /launcher/server/version
+[2025-03-21T23:38:04.931Z] debug: 	Saved 2 profiles, took: 2.11ms
+[2025-03-21T23:38:10.173Z] info: 	[Запрос Клиента] /fika/update/ping
+[2025-03-21T23:38:18.049Z] debug: 	[WS] Пингуем игрока: 67dd9f490003edb807c3a899
+[2025-03-21T23:38:18.049Z] debug: 	[WS] Веб-сокет потерян, удаляем соединение
+[2025-03-21T23:38:24.965Z] debug: 	Saved 2 profiles, took: 5.13ms
+[2025-03-21T23:38:40.206Z] info: 	[Запрос Клиента] /fika/update/ping
+[2025-03-21T23:38:44.996Z] debug: 	Saved 2 profiles, took: 2.06ms
+[2025-03-21T23:38:54.070Z] info: 	[Запрос Клиента] /launcher/profile/info
+[2025-03-21T23:38:54.072Z] info: 	[Запрос Клиента] /launcher/server/version
+[2025-03-21T23:39:00.023Z] debug: 	Saved 2 profiles, took: 3.56ms
+[2025-03-21T23:39:05.774Z] info: 	[Запрос Клиента] /fika/update/setstatus
+[2025-03-21T23:39:10.283Z] info: 	[Запрос Клиента] /fika/update/ping
+[2025-03-21T23:39:13.808Z] info: 	[Запрос Клиента] /client/localGame/weather
+[2025-03-21T23:39:13.887Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:39:14.061Z] debug: 	Failed placing item: 3 of: 4 items into: assault containers: Pockets. Tried: 4 times, reason: NO_SPACE, skipping
+[2025-03-21T23:39:14.309Z] debug: 	Failed placing item: 3 of: 4 items into: assault containers: Pockets. Tried: 4 times, reason: NO_SPACE, skipping
+[2025-03-21T23:39:14.690Z] debug: 	assault No default: mod_pistol_grip mod found for: weapon_mossberg_590a1_12g, using existing pool
+[2025-03-21T23:39:14.771Z] debug: 	Failed placing item: 3 of: 4 items into: assault containers: Pockets. Tried: 4 times, reason: NO_SPACE, skipping
+[2025-03-21T23:39:14.930Z] debug: 	Failed placing item: 3 of: 4 items into: assault containers: Pockets. Tried: 4 times, reason: NO_SPACE, skipping
+[2025-03-21T23:39:15.063Z] debug: 	Failed placing item: 3 of: 4 items into: assault containers: Pockets. Tried: 4 times, reason: NO_SPACE, skipping
+[2025-03-21T23:39:15.305Z] debug: 	assault No default: mod_pistol_grip mod found for: weapon_mossberg_590a1_12g, using existing pool
+[2025-03-21T23:39:15.529Z] debug: 	Failed placing item: 3 of: 4 items into: assault containers: Pockets. Tried: 4 times, reason: NO_SPACE, skipping
+[2025-03-21T23:39:15.579Z] debug: 	Failed placing item: 3 of: 4 items into: assault containers: Pockets. Tried: 4 times, reason: NO_SPACE, skipping
+[2025-03-21T23:39:16.260Z] debug: 	Failed placing item: 3 of: 4 items into: skier containers: Pockets. Tried: 4 times, reason: NO_SPACE, skipping
+[2025-03-21T23:39:16.457Z] debug: 	Не удалось найти данные о калибре для оружия launcher_ak_toz_gp25_40_vog с id 62e7e7bbe6da9612f743f1e0, возврат к стандартному боеприпасу: 
+[2025-03-21T23:39:16.801Z] debug: 	followerbirdeye Chosen default: mod_gas_block mod found for: weapon_colt_m4a1_556x45 weapon conflicts with item on weapon, cannot use default
+[2025-03-21T23:39:16.801Z] debug: 	followerbirdeye mod_gas_block Mod pool for: weapon_colt_m4a1_556x45 weapon has only incompatible items, using parent list instead
+[2025-03-21T23:39:16.833Z] debug: 	followerbirdeye Chosen default: mod_gas_block mod found for: weapon_colt_m4a1_556x45 weapon conflicts with item on weapon, cannot use default
+[2025-03-21T23:39:16.833Z] debug: 	followerbirdeye mod_gas_block Mod pool for: weapon_colt_m4a1_556x45 weapon has only incompatible items, using parent list instead
+[2025-03-21T23:39:16.866Z] debug: 	followerbirdeye Chosen default: mod_gas_block mod found for: weapon_colt_m4a1_556x45 weapon conflicts with item on weapon, cannot use default
+[2025-03-21T23:39:16.866Z] debug: 	followerbirdeye mod_gas_block Mod pool for: weapon_colt_m4a1_556x45 weapon has only incompatible items, using parent list instead
+[2025-03-21T23:39:16.894Z] debug: 	followerbirdeye Chosen default: mod_gas_block mod found for: weapon_colt_m4a1_556x45 weapon conflicts with item on weapon, cannot use default
+[2025-03-21T23:39:16.895Z] debug: 	followerbirdeye mod_gas_block Mod pool for: weapon_colt_m4a1_556x45 weapon has only incompatible items, using parent list instead
+[2025-03-21T23:39:16.921Z] debug: 	followerbirdeye Chosen default: mod_gas_block mod found for: weapon_colt_m4a1_556x45 weapon conflicts with item on weapon, cannot use default
+[2025-03-21T23:39:16.921Z] debug: 	followerbirdeye mod_gas_block Mod pool for: weapon_colt_m4a1_556x45 weapon has only incompatible items, using parent list instead
+[2025-03-21T23:39:16.970Z] debug: 	Failed placing item: 3 of: 4 items into: bossbully containers: Pockets. Tried: 4 times, reason: NO_SPACE, skipping
+[2025-03-21T23:39:17.026Z] debug: 	followerbully Chosen default: mod_handguard mod found for: weapon_izhmash_ak103_762x39 weapon conflicts with item on weapon, cannot use default
+[2025-03-21T23:39:17.026Z] debug: 	followerbully mod_handguard Mod pool for: weapon_izhmash_ak103_762x39 weapon has only incompatible items, using parent list instead
+[2025-03-21T23:39:17.044Z] debug: 	followerbully Chosen default: mod_handguard mod found for: weapon_izhmash_ak103_762x39 weapon conflicts with item on weapon, cannot use default
+[2025-03-21T23:39:17.044Z] debug: 	followerbully mod_handguard Mod pool for: weapon_izhmash_ak103_762x39 weapon has only incompatible items, using parent list instead
+[2025-03-21T23:39:17.052Z] debug: 	followerbully Chosen default: mod_handguard mod found for: weapon_izhmash_ak74m_545x39 weapon conflicts with item on weapon, cannot use default
+[2025-03-21T23:39:17.052Z] debug: 	followerbully mod_handguard Mod pool for: weapon_izhmash_ak74m_545x39 weapon has only incompatible items, using parent list instead
+[2025-03-21T23:39:17.103Z] debug: 	Failed placing item: 3 of: 4 items into: sectantpriest containers: Pockets. Tried: 4 times, reason: NO_SPACE, skipping
+[2025-03-21T23:39:17.222Z] debug: 	Plate filter was too restrictive for armor: item_equipment_armor_trooper 5c0e655586f774045612eeb2, unable to find plates of level: 2. Using mod items default plate
+[2025-03-21T23:39:17.329Z] debug: 	pmcbear No default: mod_muzzle mod found for: weapon_izhmash_mosin_infantry_762x54, using existing pool
+[2025-03-21T23:39:17.343Z] debug: 	Plate filter was too restrictive for armor: item_equipment_armor_kirasa 5b44d22286f774172b0c9de8, unable to find plates of level: 2. Using mod items default plate
+[2025-03-21T23:39:17.357Z] debug: 	Plate filter was too restrictive for armor: item_equipment_armor_zhuk3 5c0e5edb86f77461f55ed1f7, unable to find plates of level: 2. Using mod items default plate
+[2025-03-21T23:39:17.357Z] debug: 	Plate filter was too restrictive for armor: item_equipment_armor_zhuk3 5c0e5edb86f77461f55ed1f7, unable to find plates of level: 2. Using mod items default plate
+[2025-03-21T23:39:17.358Z] debug: 	pmcbear No default: mod_muzzle mod found for: weapon_izhmash_mosin_infantry_762x54, using existing pool
+[2025-03-21T23:39:17.387Z] debug: 	Plate filter was too restrictive for armor: item_equipment_rig_m1 5c0e722886f7740458316a57, unable to find plates of level: 2. Using mod items default plate
+[2025-03-21T23:39:17.387Z] debug: 	Plate filter was too restrictive for armor: item_equipment_rig_m1 5c0e722886f7740458316a57, unable to find plates of level: 2. Using mod items default plate
+[2025-03-21T23:39:17.430Z] debug: 	pmcbear No default: mod_muzzle mod found for: weapon_molot_op_sks_762x39, using existing pool
+[2025-03-21T23:39:17.459Z] debug: 	Plate filter was too restrictive for armor: item_equipment_armor_kirasa 5b44d22286f774172b0c9de8, unable to find plates of level: 2. Using mod items default plate
+[2025-03-21T23:39:17.460Z] debug: 	Plate filter was too restrictive for armor: item_equipment_armor_kirasa 5b44d22286f774172b0c9de8, unable to find plates of level: 2. Using mod items default plate
+[2025-03-21T23:39:17.460Z] debug: 	pmcusec No default: mod_muzzle mod found for: weapon_molot_op_sks_762x39, using existing pool
+[2025-03-21T23:39:17.474Z] debug: 	Plate filter was too restrictive for armor: item_equipment_armor_6b13_flora 5c0e51be86f774598e797894, unable to find plates of level: 3. Using mod items default plate
+[2025-03-21T23:39:17.475Z] debug: 	Plate filter was too restrictive for armor: item_equipment_armor_6b13_flora 5c0e51be86f774598e797894, unable to find plates of level: 2. Using mod items default plate
+[2025-03-21T23:39:17.481Z] debug: 	Plate filter was too restrictive for armor: item_equipment_armor_6b23_digital 5c0e5bab86f77461f55ed1f3, unable to find plates of level: 2. Using mod items default plate
+[2025-03-21T23:39:17.481Z] debug: 	Plate slot: Back_plate selection for armor: 5c0e5bab86f77461f55ed1f3 failed: NO_DEFAULT_FILTER, skipping
+[2025-03-21T23:39:17.481Z] debug: 	Plate filter was too restrictive for armor: item_equipment_armor_6b23_digital 5c0e5bab86f77461f55ed1f3, unable to find plates of level: 4. Using mod items default plate
+[2025-03-21T23:39:17.500Z] debug: 	Failed placing item: 3 of: 6 items into: pmcusec containers: Pockets. Tried: 4 times, reason: NO_SPACE, skipping
+[2025-03-21T23:39:17.505Z] debug: 	pmcusec No default: mod_muzzle mod found for: weapon_toz_sks_762x39, using existing pool
+[2025-03-21T23:39:17.554Z] debug: 	Generated 45 assault (assault) normal bots
+[2025-03-21T23:39:17.554Z] debug: 	Generated 45 assault (assault) hard bots
+[2025-03-21T23:39:17.554Z] debug: 	Generated 45 assault (assault) easy bots
+[2025-03-21T23:39:17.554Z] debug: 	Generated 30 marksman (marksman) normal bots
+[2025-03-21T23:39:17.554Z] debug: 	Generated 30 marksman (marksman) easy bots
+[2025-03-21T23:39:17.554Z] debug: 	Generated 10 skier (skier) normal bots
+[2025-03-21T23:39:17.554Z] debug: 	Generated 5 bossPartisan (bossPartisan) normal bots
+[2025-03-21T23:39:17.554Z] debug: 	Generated 10 sectantWarrior (sectantWarrior) normal bots
+[2025-03-21T23:39:17.554Z] debug: 	Generated 5 bossKnight (bossKnight) normal bots
+[2025-03-21T23:39:17.555Z] debug: 	Generated 5 followerBigPipe (followerBigPipe) normal bots
+[2025-03-21T23:39:17.555Z] debug: 	Generated 5 followerBirdEye (followerBirdEye) normal bots
+[2025-03-21T23:39:17.555Z] debug: 	Generated 5 bossBully (bossBully) normal bots
+[2025-03-21T23:39:17.555Z] debug: 	Generated 5 followerBully (followerBully) normal bots
+[2025-03-21T23:39:17.555Z] debug: 	Generated 10 sectantPriest (sectantPriest) normal bots
+[2025-03-21T23:39:17.555Z] debug: 	Generated 15 pmcBEAR (pmcBEAR) normal bots
+[2025-03-21T23:39:17.555Z] debug: 	Generated 15 pmcUSEC (pmcUSEC) normal bots
+[2025-03-21T23:39:17.557Z] debug: 	Saved 2 profiles, took: 2.18ms
+[2025-03-21T23:39:17.605Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:39:17.610Z] debug: 	pmcusec No default: mod_muzzle mod found for: weapon_izhmash_mosin_rifle_762x54, using existing pool
+[2025-03-21T23:39:17.616Z] debug: 	pmcusec No default: mod_muzzle mod found for: weapon_izhmash_mosin_rifle_762x54, using existing pool
+[2025-03-21T23:39:17.619Z] debug: 	Failed placing item: 4 of: 5 items into: pmcusec containers: Pockets. Tried: 4 times, reason: NO_SPACE, skipping
+[2025-03-21T23:39:17.623Z] debug: 	Plate filter was too restrictive for armor: item_equipment_armor_kirasa 5b44d22286f774172b0c9de8, unable to find plates of level: 2. Using mod items default plate
+[2025-03-21T23:39:17.637Z] debug: 	pmcusec No default: mod_muzzle mod found for: weapon_izhmeh_mr133_12g, using existing pool
+[2025-03-21T23:39:17.676Z] debug: 	Plate filter was too restrictive for armor: item_equipment_armor_zhuk3 5c0e5edb86f77461f55ed1f7, unable to find plates of level: 2. Using mod items default plate
+[2025-03-21T23:39:17.691Z] debug: 	Plate filter was too restrictive for armor: item_equipment_armor_6b23_digital 5c0e5bab86f77461f55ed1f3, unable to find plates of level: 2. Using mod items default plate
+[2025-03-21T23:39:17.698Z] debug: 	Plate filter was too restrictive for armor: item_equipment_armor_kirasa 5b44d22286f774172b0c9de8, unable to find plates of level: 2. Using mod items default plate
+[2025-03-21T23:39:17.705Z] debug: 	Plate filter was too restrictive for armor: item_equipment_rig_stich_profi_plate_carrier_v2 66b6296d7994640992013b17, unable to find plates of level: 2. Using mod items default plate
+[2025-03-21T23:39:18.017Z] debug: 	Generated 15 pmcUSEC (pmcUSEC) normal bots
+[2025-03-21T23:39:18.017Z] debug: 	Generated 15 arenaFighterEvent (arenaFighterEvent) normal bots
+[2025-03-21T23:39:19.520Z] info: 	[Запрос Клиента] /singleplayer/settings/bot/maxCap/bigmap
+[2025-03-21T23:39:21.091Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:39:21.093Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:39:21.094Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:39:21.095Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:39:21.096Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:39:21.096Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:39:24.998Z] info: 	[Запрос Клиента] /singleplayer/scav/traitorscavhostile
+[2025-03-21T23:39:25.085Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:39:25.218Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:39:25.348Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:39:25.590Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:39:26.237Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:39:26.275Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:39:26.885Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:39:27.352Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:39:33.506Z] info: 	[Запрос Клиента] /singleplayer/settings/bot/getBotBehaviours/
+[2025-03-21T23:39:37.586Z] debug: 	Saved 2 profiles, took: 5.69ms
+[2025-03-21T23:39:45.711Z] info: 	[Запрос Клиента] /fika/update/ping
+[2025-03-21T23:39:45.726Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:39:51.808Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:39:51.810Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:39:51.811Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:39:51.814Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:39:51.814Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:39:51.814Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:39:51.816Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:39:51.816Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:39:51.816Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:39:51.817Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:39:51.817Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:39:51.818Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:39:51.830Z] debug: 	Plate filter was too restrictive for armor: item_equipment_rig_stich_profi_plate_carrier_v2 66b6296d7994640992013b17, unable to find plates of level: 2. Using mod items default plate
+[2025-03-21T23:39:51.832Z] debug: 	pmcusec No default: mod_muzzle mod found for: weapon_toz_sks_762x39, using existing pool
+[2025-03-21T23:39:51.865Z] debug: 	Failed to add additional weapon 67ddf8c7c9500b1c1c03a3d7 to bot backpack, reason: NO_SPACE
+[2025-03-21T23:39:51.883Z] debug: 	pmcusec No default: mod_muzzle mod found for: weapon_toz_sks_762x39, using existing pool
+[2025-03-21T23:39:51.887Z] debug: 	Failed placing item: 3 of: 5 items into: pmcusec containers: Pockets. Tried: 4 times, reason: NO_SPACE, skipping
+[2025-03-21T23:39:51.904Z] debug: 	Plate filter was too restrictive for armor: item_equipment_armor_6b23_digital 5c0e5bab86f77461f55ed1f3, unable to find plates of level: 2. Using mod items default plate
+[2025-03-21T23:39:51.905Z] debug: 	Plate slot: Back_plate selection for armor: 5c0e5bab86f77461f55ed1f3 failed: NO_DEFAULT_FILTER, skipping
+[2025-03-21T23:39:51.918Z] debug: 	Failed to add additional weapon 67ddf8c7c9500b1c1c03a52f to bot backpack, reason: NO_SPACE
+[2025-03-21T23:39:51.930Z] debug: 	Plate filter was too restrictive for armor: item_equipment_armor_6b23_digital 5c0e5bab86f77461f55ed1f3, unable to find plates of level: 2. Using mod items default plate
+[2025-03-21T23:39:51.953Z] debug: 	pmcusec No default: mod_muzzle mod found for: weapon_izhmash_mosin_rifle_762x54, using existing pool
+[2025-03-21T23:39:51.965Z] debug: 	Failed to add additional weapon 67ddf8c7c9500b1c1c03a6ec to bot backpack, reason: NO_SPACE
+[2025-03-21T23:39:51.979Z] debug: 	Generated 15 pmcUSEC () hard bots
+[2025-03-21T23:39:53.216Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:39:54.056Z] info: 	[Запрос Клиента] /launcher/profile/info
+[2025-03-21T23:39:54.058Z] info: 	[Запрос Клиента] /launcher/server/version
+[2025-03-21T23:39:57.608Z] debug: 	Saved 2 profiles, took: 2.55ms
+[2025-03-21T23:40:06.224Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:40:15.779Z] info: 	[Запрос Клиента] /fika/update/ping
+[2025-03-21T23:40:16.808Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:40:16.810Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:40:17.649Z] debug: 	Saved 2 profiles, took: 3.17ms
+[2025-03-21T23:40:26.438Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:40:37.693Z] debug: 	Saved 2 profiles, took: 8.85ms
+[2025-03-21T23:40:45.875Z] info: 	[Запрос Клиента] /fika/update/ping
+[2025-03-21T23:40:46.626Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:40:54.056Z] info: 	[Запрос Клиента] /launcher/profile/info
+[2025-03-21T23:40:54.058Z] info: 	[Запрос Клиента] /launcher/server/version
+[2025-03-21T23:40:57.723Z] debug: 	Saved 2 profiles, took: 2.77ms
+[2025-03-21T23:41:06.875Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:41:09.174Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:41:10.499Z] debug: 	assault No default: mod_pistol_grip mod found for: weapon_mossberg_590a1_12g, using existing pool
+[2025-03-21T23:41:13.038Z] debug: 	Generated 45 assault (assault) easy bots
+[2025-03-21T23:41:13.038Z] debug: 	Generated 45 assault (assault) normal bots
+[2025-03-21T23:41:13.038Z] debug: 	Generated 45 assault (assault) hard bots
+[2025-03-21T23:41:13.039Z] debug: 	Generated 30 marksman (marksman) easy bots
+[2025-03-21T23:41:13.039Z] debug: 	Generated 30 marksman (marksman) normal bots
+[2025-03-21T23:41:13.039Z] debug: 	Generated 30 marksman (marksman) hard bots
+[2025-03-21T23:41:13.039Z] debug: 	Generated 30 infectedAssault (infectedAssault) easy bots
+[2025-03-21T23:41:13.039Z] debug: 	Generated 30 infectedAssault (infectedAssault) normal bots
+[2025-03-21T23:41:13.039Z] debug: 	Generated 30 infectedAssault (infectedAssault) hard bots
+[2025-03-21T23:41:13.039Z] debug: 	Generated 30 infectedCivil (infectedCivil) easy bots
+[2025-03-21T23:41:13.039Z] debug: 	Generated 30 infectedCivil (infectedCivil) normal bots
+[2025-03-21T23:41:13.039Z] debug: 	Generated 30 infectedCivil (infectedCivil) hard bots
+[2025-03-21T23:41:13.039Z] debug: 	Generated 30 infectedPmc (infectedPmc) easy bots
+[2025-03-21T23:41:13.039Z] debug: 	Generated 30 infectedPmc (infectedPmc) normal bots
+[2025-03-21T23:41:13.039Z] debug: 	Generated 30 infectedPmc (infectedPmc) hard bots
+[2025-03-21T23:41:13.039Z] debug: 	Generated 30 infectedLaborant (infectedLaborant) easy bots
+[2025-03-21T23:41:13.040Z] debug: 	Generated 30 infectedLaborant (infectedLaborant) normal bots
+[2025-03-21T23:41:13.040Z] debug: 	Generated 30 infectedLaborant (infectedLaborant) hard bots
+[2025-03-21T23:41:13.042Z] debug: 	Saved 2 profiles, took: 2.21ms
+[2025-03-21T23:41:15.945Z] info: 	[Запрос Клиента] /fika/update/ping
+[2025-03-21T23:41:27.012Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:41:31.824Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:41:31.824Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:41:31.827Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:41:31.827Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:41:33.072Z] debug: 	Saved 2 profiles, took: 7.33ms
+[2025-03-21T23:41:45.993Z] info: 	[Запрос Клиента] /fika/update/ping
+[2025-03-21T23:41:47.141Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:41:53.089Z] debug: 	Saved 2 profiles, took: 2.93ms
+[2025-03-21T23:41:54.070Z] info: 	[Запрос Клиента] /launcher/profile/info
+[2025-03-21T23:41:54.072Z] info: 	[Запрос Клиента] /launcher/server/version
+[2025-03-21T23:41:57.608Z] info: 	[Запрос Клиента] /fika/update/playerdied
+[2025-03-21T23:41:59.224Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:42:00.445Z] debug: 	Generated 30 marksman (marksman) hard bots
+[2025-03-21T23:42:00.445Z] debug: 	Generated 30 infectedAssault (infectedAssault) easy bots
+[2025-03-21T23:42:00.445Z] debug: 	Generated 30 infectedAssault (infectedAssault) normal bots
+[2025-03-21T23:42:00.445Z] debug: 	Generated 30 infectedAssault (infectedAssault) hard bots
+[2025-03-21T23:42:00.445Z] debug: 	Generated 30 infectedCivil (infectedCivil) easy bots
+[2025-03-21T23:42:00.445Z] debug: 	Generated 30 infectedCivil (infectedCivil) normal bots
+[2025-03-21T23:42:00.445Z] debug: 	Generated 30 infectedCivil (infectedCivil) hard bots
+[2025-03-21T23:42:00.445Z] debug: 	Generated 30 infectedPmc (infectedPmc) easy bots
+[2025-03-21T23:42:00.445Z] debug: 	Generated 30 infectedPmc (infectedPmc) normal bots
+[2025-03-21T23:42:00.445Z] debug: 	Generated 30 infectedPmc (infectedPmc) hard bots
+[2025-03-21T23:42:00.445Z] debug: 	Generated 30 infectedLaborant (infectedLaborant) easy bots
+[2025-03-21T23:42:00.446Z] debug: 	Generated 30 infectedLaborant (infectedLaborant) normal bots
+[2025-03-21T23:42:00.446Z] debug: 	Generated 30 infectedLaborant (infectedLaborant) hard bots
+[2025-03-21T23:42:07.457Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:42:13.117Z] debug: 	Saved 2 profiles, took: 2.61ms
+[2025-03-21T23:42:16.192Z] info: 	[Запрос Клиента] /fika/update/ping
+[2025-03-21T23:42:27.623Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:42:33.181Z] debug: 	Saved 2 profiles, took: 9.41ms
+[2025-03-21T23:42:46.277Z] info: 	[Запрос Клиента] /fika/update/ping
+[2025-03-21T23:42:47.758Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:42:47.958Z] debug: 	Generated 10 sectantPriest () normal bots
+[2025-03-21T23:42:53.172Z] debug: 	Saved 2 profiles, took: 2.45ms
+[2025-03-21T23:42:54.067Z] info: 	[Запрос Клиента] /launcher/profile/info
+[2025-03-21T23:42:54.069Z] info: 	[Запрос Клиента] /launcher/server/version
+[2025-03-21T23:42:54.467Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:43:08.540Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:43:13.199Z] debug: 	Saved 2 profiles, took: 3.62ms
+[2025-03-21T23:43:16.427Z] info: 	[Запрос Клиента] /fika/update/ping
+[2025-03-21T23:43:28.707Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:43:33.228Z] debug: 	Saved 2 profiles, took: 3.20ms
+[2025-03-21T23:43:44.569Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:43:46.502Z] info: 	[Запрос Клиента] /fika/update/ping
+[2025-03-21T23:43:48.839Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:43:53.256Z] debug: 	Saved 2 profiles, took: 7.74ms
+[2025-03-21T23:43:54.065Z] info: 	[Запрос Клиента] /launcher/profile/info
+[2025-03-21T23:43:54.067Z] info: 	[Запрос Клиента] /launcher/server/version
+[2025-03-21T23:44:08.972Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:44:13.282Z] debug: 	Saved 2 profiles, took: 2.22ms
+[2025-03-21T23:44:16.541Z] info: 	[Запрос Клиента] /fika/update/ping
+[2025-03-21T23:44:29.373Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:44:33.322Z] debug: 	Saved 2 profiles, took: 4.66ms
+[2025-03-21T23:44:39.571Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:44:46.588Z] info: 	[Запрос Клиента] /fika/update/ping
+[2025-03-21T23:44:49.789Z] info: 	[Запрос Клиента] /client/game/bot/generate
+[2025-03-21T23:44:53.226Z] info: 	[Запрос Клиента] /files/achievement/Standard_35_1.png
+[2025-03-21T23:44:53.361Z] debug: 	Saved 2 profiles, took: 8.61ms
+[2025-03-21T23:44:53.416Z] info: 	[Запрос Клиента] /client/match/local/end
+[2025-03-21T23:44:53.418Z] debug: 	Raid: bigmap.Pmc.1742600244 outcome: Killed
+[2025-03-21T23:44:53.462Z] info: 	[Запрос Клиента] /fika/raid/leave
+[2025-03-21T23:44:53.463Z] info: 	Coop session 67dd9f490003edb807c3a899 has ended: host-shutdown
+[2025-03-21T23:44:54.056Z] info: 	[Запрос Клиента] /launcher/profile/info
+[2025-03-21T23:44:54.057Z] info: 	[Запрос Клиента] /launcher/server/version
+[2025-03-21T23:44:55.853Z] info: 	[WS] Игрок: Homa_690 (67dd9f490003edb807c3a899) присоединился
+[2025-03-21T23:44:55.853Z] info: 	WebSocketHandler "SPT WebSocket Handler" connected
+[2025-03-21T23:44:58.473Z] info: 	[Запрос Клиента] /client/game/profile/list
+[2025-03-21T23:44:58.579Z] info: 	[Запрос Клиента] /client/game/profile/select
+[2025-03-21T23:44:58.621Z] info: 	[Запрос Клиента] /client/profile/status
+[2025-03-21T23:44:58.684Z] info: 	[Запрос Клиента] /client/quest/list
+[2025-03-21T23:44:58.739Z] info: 	[Запрос Клиента] /client/achievement/statistic
+[2025-03-21T23:44:58.781Z] info: 	[Запрос Клиента] /client/achievement/list
+[2025-03-21T23:44:58.935Z] info: 	[Запрос Клиента] /client/repeatalbeQuests/activityPeriods
+[2025-03-21T23:44:58.936Z] debug: 	Daily scav quests still locked, Intel center not built
+[2025-03-21T23:45:06.340Z] info: 	[Запрос Клиента] /client/game/profile/items/moving
+[2025-03-21T23:45:06.341Z] debug: 	event: RestoreHealth
+[2025-03-21T23:45:06.342Z] debug: 	Цена 0, платеж не требуется
+[2025-03-21T23:45:06.342Z] debug: 	No assort  on trader: 54cb57776803fa99248b456e found
+[2025-03-21T23:45:06.342Z] debug: 	Item(s) taken. Status OK.
+[2025-03-21T23:45:12.167Z] info: 	[Запрос Клиента] /client/items
+[2025-03-21T23:45:13.394Z] debug: 	Saved 2 profiles, took: 9.33ms
+[2025-03-21T23:45:17.973Z] info: 	[Запрос Клиента] /client/customization
+[2025-03-21T23:45:18.140Z] info: 	[Запрос Клиента] /client/globals
+[2025-03-21T23:45:18.712Z] info: 	[Запрос Клиента] /client/trading/api/traderSettings
+[2025-03-21T23:45:18.776Z] info: 	[Запрос Клиента] /client/settings
+[2025-03-21T23:45:18.838Z] info: 	[Запрос Клиента] /client/game/profile/list
+[2025-03-21T23:45:19.006Z] info: 	[Запрос Клиента] /client/game/profile/select
+[2025-03-21T23:45:19.048Z] info: 	[Запрос Клиента] /client/profile/status
+[2025-03-21T23:45:19.109Z] info: 	[Запрос Клиента] /client/weather
+[2025-03-21T23:45:19.110Z] info: 	[Запрос Клиента] /client/locations
+[2025-03-21T23:45:19.110Z] debug: 	Map: base has no base json file, skipping generation
+[2025-03-21T23:45:20.267Z] info: 	[Запрос Клиента] /client/handbook/templates
+[2025-03-21T23:45:21.465Z] info: 	[Запрос Клиента] /client/hideout/areas
+[2025-03-21T23:45:21.578Z] info: 	[Запрос Клиента] /client/hideout/qte/list
+[2025-03-21T23:45:21.620Z] info: 	[Запрос Клиента] /client/hideout/settings
+[2025-03-21T23:45:21.681Z] info: 	[Запрос Клиента] /client/hideout/production/recipes
+[2025-03-21T23:45:21.794Z] info: 	[Запрос Клиента] /client/builds/list
+[2025-03-21T23:45:25.034Z] info: 	[Запрос Клиента] /client/profile/status
+[2025-03-21T23:45:25.035Z] info: 	[Запрос Клиента] /client/trading/customization/storage
+[2025-03-21T23:45:25.035Z] info: 	[Запрос Клиента] /client/notifier/channel/create
+[2025-03-21T23:45:25.080Z] info: 	[WS] Игрок: Homa_690 (67dd9f490003edb807c3a899) присоединился
+[2025-03-21T23:45:25.081Z] info: 	WebSocketHandler "SPT WebSocket Handler" connected
+[2025-03-21T23:45:25.086Z] info: 	[Запрос Клиента] /client/friend/list
+[2025-03-21T23:45:25.086Z] info: 	[Запрос Клиента] /client/server/list
+[2025-03-21T23:45:25.086Z] info: 	[Запрос Клиента] /client/mail/dialog/list
+[2025-03-21T23:45:25.087Z] info: 	[Запрос Клиента] /client/match/group/current
+[2025-03-21T23:45:25.087Z] info: 	[Запрос Клиента] /client/friend/request/list/inbox
+[2025-03-21T23:45:25.088Z] info: 	[Запрос Клиента] /client/quest/list
+[2025-03-21T23:45:25.089Z] info: 	[Запрос Клиента] /client/friend/request/list/outbox
+[2025-03-21T23:45:25.132Z] info: 	[Запрос Клиента] /client/achievement/statistic
+[2025-03-21T23:45:25.204Z] info: 	[Запрос Клиента] /client/achievement/list
+[2025-03-21T23:45:25.336Z] info: 	[Запрос Клиента] /client/repeatalbeQuests/activityPeriods
+[2025-03-21T23:45:25.337Z] debug: 	Daily scav quests still locked, Intel center not built
+[2025-03-21T23:45:25.378Z] info: 	[Запрос Клиента] /client/survey
+[2025-03-21T23:45:25.722Z] info: 	[Запрос Клиента] /fika/presence/set
+[2025-03-21T23:45:25.735Z] info: 	[Запрос Клиента] /fika/presence/get
+[2025-03-21T23:45:33.438Z] debug: 	Saved 2 profiles, took: 5.35ms
+[2025-03-21T23:45:48.991Z] info: 	[Запрос Клиента] /fika/presence/set
+[2025-03-21T23:45:49.005Z] info: 	[Запрос Клиента] /fika/presence/get
+[2025-03-21T23:45:49.017Z] info: 	[Запрос Клиента] /client/checkVersion
+[2025-03-21T23:45:53.466Z] debug: 	Saved 2 profiles, took: 5.28ms
+[2025-03-21T23:45:54.056Z] info: 	[Запрос Клиента] /launcher/profile/info
+[2025-03-21T23:45:54.057Z] info: 	[Запрос Клиента] /launcher/server/version
+[2025-03-21T23:45:56.703Z] info: 	[Запрос Клиента] /fika/presence/set
+[2025-03-21T23:45:56.714Z] info: 	[Запрос Клиента] /fika/presence/get
+[2025-03-21T23:45:59.599Z] info: 	[Запрос Клиента] /fika/presence/set
+[2025-03-21T23:46:13.491Z] debug: 	Saved 2 profiles, took: 6.49ms
+[2025-03-21T23:46:33.528Z] debug: 	Saved 2 profiles, took: 6.41ms
+[2025-03-21T23:46:48.512Z] info: 	[Запрос Клиента] /files/trader/avatar/59b91cab86f77469aa5343ca.jpg
+[2025-03-21T23:46:48.515Z] info: 	[Запрос Клиента] /files/trader/avatar/579dc571d53a0658a154fbec.jpg
+[2025-03-21T23:46:48.516Z] info: 	[Запрос Клиента] /files/trader/avatar/59b91cb486f77469a81232e5.jpg
+[2025-03-21T23:46:48.519Z] info: 	[Запрос Клиента] /files/trader/avatar/59b91cbd86f77469aa5343cb.jpg
+[2025-03-21T23:46:48.519Z] info: 	[Запрос Клиента] /files/trader/avatar/5a7c2ebb86f7746e324a06ab.jpg
+[2025-03-21T23:46:48.520Z] info: 	[Запрос Клиента] /files/trader/avatar/5ac3b86a86f77461491d1ad8.jpg
+[2025-03-21T23:46:48.520Z] info: 	[Запрос Клиента] /files/trader/avatar/5c06531a86f7746319710e1b.jpg
+[2025-03-21T23:46:48.521Z] info: 	[Запрос Клиента] /files/trader/avatar/6617beeaa9cfa777ca915b7c.png
+[2025-03-21T23:46:48.565Z] info: 	[Запрос Клиента] /client/items/prices/54cb50c76803fa8b248b4571
+[2025-03-21T23:46:48.566Z] info: 	[Запрос Клиента] /client/game/profile/items/moving
+[2025-03-21T23:46:48.577Z] debug: 	event: Move
+[2025-03-21T23:46:48.577Z] debug: 	Move item: 67ddf7b0c9500b1c1c031ee7 from slotid: hideout to container: main
+[2025-03-21T23:46:48.577Z] debug: 	event: Move
+[2025-03-21T23:46:48.578Z] debug: 	Move item: 67ddf7b0c9500b1c1c031f12 from slotid: hideout to container: main
+[2025-03-21T23:46:48.578Z] debug: 	event: Move
+[2025-03-21T23:46:48.578Z] debug: 	Move item: 67ddf7b0c9500b1c1c031f8f from slotid: hideout to container: main
+[2025-03-21T23:46:48.578Z] debug: 	event: Move
+[2025-03-21T23:46:48.578Z] debug: 	Move item: 67ddf7b0c9500b1c1c031f7a from slotid: hideout to container: main
+[2025-03-21T23:46:48.578Z] debug: 	event: Move
+[2025-03-21T23:46:48.578Z] debug: 	Move item: 67ddf7b0c9500b1c1c031f67 from slotid: hideout to container: main
+[2025-03-21T23:46:48.652Z] info: 	[Запрос Клиента] /client/trading/api/getTraderAssort/54cb50c76803fa8b248b4571
+[2025-03-21T23:46:53.568Z] debug: 	Saved 2 profiles, took: 7.61ms
+[2025-03-21T23:46:54.067Z] info: 	[Запрос Клиента] /launcher/profile/info
+[2025-03-21T23:46:54.069Z] info: 	[Запрос Клиента] /launcher/server/version
+[2025-03-21T23:46:55.085Z] debug: 	[WS] Пингуем игрока: 67dd9f490003edb807c3a899
+[2025-03-21T23:46:55.714Z] info: 	[Запрос Клиента] /client/items/prices/5a7c2eca46aef81a7ca2145d
+[2025-03-21T23:46:55.788Z] info: 	[Запрос Клиента] /client/trading/api/getTraderAssort/5a7c2eca46aef81a7ca2145d
+[2025-03-21T23:47:10.426Z] info: 	[Запрос Клиента] /client/game/profile/items/moving
+[2025-03-21T23:47:10.427Z] debug: 	event: TradingConfirm
+[2025-03-21T23:47:10.427Z] debug: 	Selling: id: 67ddf7b0c9500b1c1c031f55 tpl: 576a581d2459771e7b1bc4f1
+[2025-03-21T23:47:10.428Z] debug: 	Selling: id: 67ddf7b0c9500b1c1c031f47 tpl: 576a581d2459771e7b1bc4f1
+[2025-03-21T23:47:10.428Z] debug: 	Selling: id: 67ddf7b0c9500b1c1c031f59 tpl: 576a581d2459771e7b1bc4f1
+[2025-03-21T23:47:10.428Z] debug: 	Selling: id: 67ddf7b0c9500b1c1c031e6e tpl: 576a5ed62459771e9c2096cb
+[2025-03-21T23:47:10.428Z] debug: 	Selling: id: 67ddf7b0c9500b1c1c031e6a tpl: 576a5ed62459771e9c2096cb
+[2025-03-21T23:47:10.428Z] debug: 	Selling: id: 67ddf7b0c9500b1c1c031e68 tpl: 576a5ed62459771e9c2096cb
+[2025-03-21T23:47:10.428Z] debug: 	Selling: id: 67ddf7b0c9500b1c1c031ef5 tpl: 576a5ed62459771e9c2096cb
+[2025-03-21T23:47:10.429Z] debug: 	Selling: id: 67ddf7b0c9500b1c1c031f00 tpl: 56d59d3ad2720bdb418b4577
+[2025-03-21T23:47:10.429Z] debug: 	Selling: id: 67ddf7b0c9500b1c1c031ef7 tpl: 576a5ed62459771e9c2096cb
+[2025-03-21T23:47:10.429Z] debug: 	Selling: id: 67ddf7b0c9500b1c1c031eff tpl: 56d59d3ad2720bdb418b4577
+[2025-03-21T23:47:10.429Z] debug: 	Selling: id: 67ddf7b0c9500b1c1c031ea3 tpl: 576a5ed62459771e9c2096cb
+[2025-03-21T23:47:10.430Z] debug: 	Selling: id: 67ddf7b0c9500b1c1c031e6c tpl: 576a5ed62459771e9c2096cb
+[2025-03-21T23:47:10.430Z] debug: 	Selling: id: 67ddf7b0c9500b1c1c031f5d tpl: 59984ab886f7743e98271174
+[2025-03-21T23:47:10.430Z] debug: 	Selling: id: 67ddf7b0c9500b1c1c031ea5 tpl: 576a5ed62459771e9c2096cb
+[2025-03-21T23:47:10.430Z] debug: 	Selling: id: 67ddf7b0c9500b1c1c031f4b tpl: 59984ab886f7743e98271174
+[2025-03-21T23:47:10.430Z] debug: 	Selling: id: 67ddf7b0c9500b1c1c031e76 tpl: 599860ac86f77436b225ed1a
+[2025-03-21T23:47:10.430Z] debug: 	Selling: id: 67ddf7b0c9500b1c1c031e74 tpl: 599860ac86f77436b225ed1a
+[2025-03-21T23:47:10.433Z] debug: 	Added 63018 item: 5449016a4bdc2d6f028b456f with: 0 mods to inventory
+[2025-03-21T23:47:13.593Z] debug: 	Saved 2 profiles, took: 4.80ms
+[2025-03-21T23:47:13.685Z] info: 	[Запрос Клиента] /client/items/prices/5ac3b934156ae10c4430e83c
+[2025-03-21T23:47:13.770Z] info: 	[Запрос Клиента] /client/trading/api/getTraderAssort/5ac3b934156ae10c4430e83c
+[2025-03-21T23:47:16.645Z] info: 	[Запрос Клиента] /client/items/prices/5935c25fb3acc3127c3d8cd9
+[2025-03-21T23:47:16.737Z] info: 	[Запрос Клиента] /client/trading/api/getTraderAssort/5935c25fb3acc3127c3d8cd9
+[2025-03-21T23:47:17.296Z] info: 	[Запрос Клиента] /client/items/prices/58330581ace78e27b8b10cee
+[2025-03-21T23:47:17.348Z] info: 	[Запрос Клиента] /client/trading/api/getTraderAssort/58330581ace78e27b8b10cee
+[2025-03-21T23:47:18.649Z] info: 	[Запрос Клиента] /client/items/prices/579dc571d53a0658a154fbec
+[2025-03-21T23:47:18.720Z] info: 	[Запрос Клиента] /client/trading/api/getTraderAssort/579dc571d53a0658a154fbec
+[2025-03-21T23:47:20.405Z] info: 	[Запрос Клиента] /client/trading/api/getTraderAssort/54cb50c76803fa8b248b4571
+[2025-03-21T23:47:21.894Z] info: 	[Запрос Клиента] /client/items/prices/54cb57776803fa99248b456e
+[2025-03-21T23:47:21.954Z] info: 	[Запрос Клиента] /client/trading/api/getTraderAssort/54cb57776803fa99248b456e
+[2025-03-21T23:47:24.795Z] info: 	[Запрос Клиента] /client/trading/api/getTraderAssort/5a7c2eca46aef81a7ca2145d
+[2025-03-21T23:47:28.981Z] info: 	[Запрос Клиента] /fika/presence/set
+[2025-03-21T23:47:33.624Z] debug: 	Saved 2 profiles, took: 4.71ms
+[2025-03-21T23:47:41.046Z] info: 	[Запрос Клиента] /client/game/profile/items/moving
+[2025-03-21T23:47:41.047Z] debug: 	event: TradingConfirm
+[2025-03-21T23:47:41.047Z] debug: 	Selling: id: 67ddf7b0c9500b1c1c031e7c tpl: 599860ac86f77436b225ed1a
+[2025-03-21T23:47:41.047Z] debug: 	Selling: id: 67ddf7b0c9500b1c1c031e7a tpl: 599860ac86f77436b225ed1a
+[2025-03-21T23:47:41.047Z] debug: 	Selling: id: 67ddf7b0c9500b1c1c031e78 tpl: 599860ac86f77436b225ed1a
+[2025-03-21T23:47:41.047Z] debug: 	Selling: id: 67ddf7b0c9500b1c1c031e73 tpl: 56d59d3ad2720bdb418b4577
+[2025-03-21T23:47:41.047Z] debug: 	Selling: id: 67ddf7b0c9500b1c1c031eb5 tpl: 56d59d3ad2720bdb418b4577
+[2025-03-21T23:47:41.047Z] debug: 	Selling: id: 67ddf7b0c9500b1c1c031e71 tpl: 56d59d3ad2720bdb418b4577
+[2025-03-21T23:47:41.047Z] debug: 	Selling: id: 67ddf7b0c9500b1c1c031efb tpl: 56d59d3ad2720bdb418b4577
+[2025-03-21T23:47:41.047Z] debug: 	Selling: id: 67ddf7b0c9500b1c1c031ef9 tpl: 576a5ed62459771e9c2096cb
+[2025-03-21T23:47:41.047Z] debug: 	Selling: id: 67ddf7b0c9500b1c1c031efe tpl: 56d59d3ad2720bdb418b4577
+[2025-03-21T23:47:41.048Z] debug: 	Selling: id: 67ddf7b0c9500b1c1c031e70 tpl: 56d59d3ad2720bdb418b4577
+[2025-03-21T23:47:41.048Z] debug: 	Selling: id: 67ddf7b0c9500b1c1c031e67 tpl: 56d59d3ad2720bdb418b4577
+[2025-03-21T23:47:41.048Z] debug: 	Selling: id: 67ddf7b0c9500b1c1c031e72 tpl: 56d59d3ad2720bdb418b4577
+[2025-03-21T23:47:41.048Z] debug: 	Selling: id: 67ddf7b0c9500b1c1c031e5d tpl: 599860ac86f77436b225ed1a
+[2025-03-21T23:47:48.848Z] info: 	[Запрос Клиента] /client/game/profile/items/moving
+[2025-03-21T23:47:48.849Z] debug: 	event: TradingConfirm
+[2025-03-21T23:47:48.849Z] debug: 	Selling: id: 67ddf7b0c9500b1c1c031ea7 tpl: 560d5e524bdc2d25448b4571
+[2025-03-21T23:47:48.849Z] debug: 	Selling: id: 67ddf7b0c9500b1c1c031eb4 tpl: 560d5e524bdc2d25448b4571
+[2025-03-21T23:47:48.849Z] debug: 	Selling: id: 67ddf7b0c9500b1c1c031eb6 tpl: 560d5e524bdc2d25448b4571
+[2025-03-21T23:47:50.831Z] info: 	[Запрос Клиента] /client/trading/api/getTraderAssort/5935c25fb3acc3127c3d8cd9
+[2025-03-21T23:47:51.382Z] info: 	[Запрос Клиента] /client/trading/api/getTraderAssort/58330581ace78e27b8b10cee
+[2025-03-21T23:47:53.663Z] debug: 	Saved 2 profiles, took: 6.53ms
+[2025-03-21T23:47:54.069Z] info: 	[Запрос Клиента] /launcher/profile/info
+[2025-03-21T23:47:54.070Z] info: 	[Запрос Клиента] /launcher/server/version
+[2025-03-21T23:47:55.610Z] info: 	[Запрос Клиента] /client/game/profile/items/moving
+[2025-03-21T23:47:55.610Z] debug: 	event: TradingConfirm
+[2025-03-21T23:47:55.610Z] debug: 	Selling: id: 67ddf7b0c9500b1c1c031e58 tpl: 5710c24ad2720bc3458b45a3
+[2025-03-21T23:47:55.611Z] debug: 	Selling: id: 67ddf7b0c9500b1c1c031ea9 tpl: 5a0c27731526d80618476ac4
+[2025-03-21T23:47:55.611Z] debug: 	Selling: id: 67ddf7b0c9500b1c1c031ea8 tpl: 5a0c27731526d80618476ac4
+[2025-03-21T23:47:55.611Z] debug: 	Selling: id: 67ddf7b0c9500b1c1c031e86 tpl: 5a0c27731526d80618476ac4
+[2025-03-21T23:47:55.611Z] debug: 	Selling: id: 67ddf7b0c9500b1c1c031e87 tpl: 5a0c27731526d80618476ac4
+[2025-03-21T23:47:55.611Z] debug: 	Selling: id: 67ddf7b0c9500b1c1c031e54 tpl: 5710c24ad2720bc3458b45a3
+[2025-03-21T23:48:06.941Z] info: 	[Запрос Клиента] /client/game/profile/items/moving
+[2025-03-21T23:48:06.942Z] debug: 	event: TradingConfirm
+[2025-03-21T23:48:06.942Z] debug: 	Selling: id: 67ddf7b0c9500b1c1c031e57 tpl: 5710c24ad2720bc3458b45a3
+[2025-03-21T23:48:06.942Z] debug: 	Selling: id: 67ddf7b0c9500b1c1c031e80 tpl: 5710c24ad2720bc3458b45a3
+[2025-03-21T23:48:06.942Z] debug: 	Selling: id: 67ddf7b0c9500b1c1c031ebd tpl: 5710c24ad2720bc3458b45a3
+[2025-03-21T23:48:06.942Z] debug: 	Selling: id: 67ddf7b0c9500b1c1c031ebe tpl: 5710c24ad2720bc3458b45a3
+[2025-03-21T23:48:13.683Z] debug: 	Saved 2 profiles, took: 4.58ms
+[2025-03-21T23:48:14.075Z] info: 	[Запрос Клиента] /client/game/profile/items/moving
+[2025-03-21T23:48:14.075Z] debug: 	event: TradingConfirm
+[2025-03-21T23:48:14.075Z] debug: 	Selling: id: 67ddf7b0c9500b1c1c031f35 tpl: 5a26ac0ec4a28200741e1e18
+[2025-03-21T23:48:14.075Z] debug: 	Selling: id: 67ddf7b0c9500b1c1c031e91 tpl: 5a26ac0ec4a28200741e1e18
+[2025-03-21T23:48:20.119Z] info: 	[Запрос Клиента] /fika/presence/set
+[2025-03-21T23:48:25.085Z] debug: 	[WS] Пингуем игрока: 67dd9f490003edb807c3a899
+[2025-03-21T23:48:33.717Z] debug: 	Saved 2 profiles, took: 5.01ms
+[2025-03-21T23:48:53.743Z] debug: 	Saved 2 profiles, took: 4.50ms
+[2025-03-21T23:48:54.057Z] info: 	[Запрос Клиента] /launcher/profile/info
+[2025-03-21T23:48:54.060Z] info: 	[Запрос Клиента] /launcher/server/version
+[2025-03-21T23:49:13.776Z] debug: 	Saved 2 profiles, took: 5.78ms
+[2025-03-21T23:49:14.114Z] info: 	[Запрос Клиента] /client/game/profile/items/moving
+[2025-03-21T23:49:14.114Z] debug: 	event: Move
+[2025-03-21T23:49:14.114Z] debug: 	Move item: 67ddf7b0c9500b1c1c031e55 from slotid: hideout to container: hideout
+[2025-03-21T23:49:14.115Z] debug: 	event: Move
+[2025-03-21T23:49:14.115Z] debug: 	Move item: 67ddf7b0c9500b1c1c031e66 from slotid: hideout to container: hideout
+[2025-03-21T23:49:14.115Z] debug: 	event: Move
+[2025-03-21T23:49:14.115Z] debug: 	Move item: 67ddf7b0c9500b1c1c031e7f from slotid: hideout to container: hideout
+[2025-03-21T23:49:14.115Z] debug: 	event: Move
+[2025-03-21T23:49:14.115Z] debug: 	Move item: 67ddf7b0c9500b1c1c031e7e from slotid: hideout to container: hideout
+[2025-03-21T23:49:14.115Z] debug: 	event: Move
+[2025-03-21T23:49:14.115Z] debug: 	Move item: 67ddf7b0c9500b1c1c031e5f from slotid: hideout to container: ArmorVest
+[2025-03-21T23:49:14.115Z] debug: 	event: Move
+[2025-03-21T23:49:14.115Z] debug: 	Move item: 67ddf7b0c9500b1c1c031e59 from slotid: hideout to container: TacticalVest
+[2025-03-21T23:49:14.115Z] debug: 	event: Move
+[2025-03-21T23:49:14.115Z] debug: 	Move item: 67ddf7b0c9500b1c1c031e7f from slotid: hideout to container: hideout
+[2025-03-21T23:49:14.115Z] debug: 	event: Move
+[2025-03-21T23:49:14.115Z] debug: 	Move item: 67ddfa7ec9500b1c1c04b781 from slotid: hideout to container: hideout
+[2025-03-21T23:49:14.115Z] debug: 	event: Move
+[2025-03-21T23:49:14.115Z] debug: 	Move item: 67ddf7b0c9500b1c1c031e7f from slotid: hideout to container: hideout
+[2025-03-21T23:49:14.115Z] debug: 	event: Move
+[2025-03-21T23:49:14.116Z] debug: 	Move item: 67ddf7b0c9500b1c1c031e7e from slotid: hideout to container: hideout
+[2025-03-21T23:49:14.116Z] debug: 	event: Move
+[2025-03-21T23:49:14.116Z] debug: 	Move item: 67ddf7b0c9500b1c1c031ec1 from slotid: hideout to container: Headwear
+[2025-03-21T23:49:14.116Z] debug: 	event: Move
+[2025-03-21T23:49:14.116Z] debug: 	Move item: 67ddf7b0c9500b1c1c031e5f from slotid: ArmorVest to container: hideout
+[2025-03-21T23:49:14.116Z] debug: 	event: Move
+[2025-03-21T23:49:14.116Z] debug: 	Move item: 67ddf7b0c9500b1c1c031f09 from slotid: hideout to container: ArmorVest
+[2025-03-21T23:49:14.116Z] debug: 	event: Move
+[2025-03-21T23:49:14.116Z] debug: 	Move item: 67ddf7b0c9500b1c1c031ecb from slotid: hideout to container: Backpack
+[2025-03-21T23:49:33.811Z] debug: 	Saved 2 profiles, took: 4.87ms
+[2025-03-21T23:49:53.889Z] debug: 	Saved 2 profiles, took: 4.60ms
+[2025-03-21T23:49:54.062Z] info: 	[Запрос Клиента] /launcher/profile/info
+[2025-03-21T23:49:54.064Z] info: 	[Запрос Клиента] /launcher/server/version
+[2025-03-21T23:49:55.085Z] debug: 	[WS] Пингуем игрока: 67dd9f490003edb807c3a899
+[2025-03-21T23:50:13.885Z] debug: 	Saved 2 profiles, took: 4.80ms
+[2025-03-21T23:50:14.129Z] info: 	[Запрос Клиента] /client/game/profile/items/moving
+[2025-03-21T23:50:14.129Z] debug: 	event: Move
+[2025-03-21T23:50:14.129Z] debug: 	Move item: 67ddf7b0c9500b1c1c031ecb from slotid: Backpack to container: hideout
+[2025-03-21T23:50:14.129Z] debug: 	event: Move
+[2025-03-21T23:50:14.130Z] debug: 	Move item: 67ddf7b0c9500b1c1c031e7f from slotid: hideout to container: Backpack
+[2025-03-21T23:50:14.130Z] debug: 	event: Move
+[2025-03-21T23:50:14.130Z] debug: 	Move item: 67ddf7b0c9500b1c1c031e55 from slotid: hideout to container: Earpiece
+[2025-03-21T23:50:14.130Z] debug: 	event: Move
+[2025-03-21T23:50:14.130Z] debug: 	Move item: 67ddf7b0c9500b1c1c031fa2 from slotid: hideout to container: FirstPrimaryWeapon
+[2025-03-21T23:50:14.130Z] debug: 	event: Move
+[2025-03-21T23:50:14.130Z] debug: 	Move item: 67ddf7b0c9500b1c1c031fb6 from slotid: hideout to container: 1
+[2025-03-21T23:50:14.130Z] debug: 	event: Move
+[2025-03-21T23:50:14.130Z] debug: 	Move item: 67ddf7b0c9500b1c1c031fb4 from slotid: hideout to container: 2
+[2025-03-21T23:50:14.130Z] debug: 	event: Move
+[2025-03-21T23:50:14.130Z] debug: 	Move item: 67ddf7b0c9500b1c1c031fb8 from slotid: hideout to container: 3
+[2025-03-21T23:50:14.130Z] debug: 	event: Move
+[2025-03-21T23:50:14.130Z] debug: 	Move item: 67ddf7b0c9500b1c1c031e95 from slotid: hideout to container: 4
+[2025-03-21T23:50:14.130Z] debug: 	event: Move
+[2025-03-21T23:50:14.130Z] debug: 	Move item: 67ddf7b0c9500b1c1c031e95 from slotid: 4 to container: pocket2
+[2025-03-21T23:50:14.130Z] debug: 	event: Move
+[2025-03-21T23:50:14.130Z] debug: 	Move item: 67ddf7b0c9500b1c1c031e92 from slotid: hideout to container: pocket3
+[2025-03-21T23:50:14.130Z] debug: 	event: Move
+[2025-03-21T23:50:14.130Z] debug: 	Move item: 67ddf7b0c9500b1c1c031ec9 from slotid: hideout to container: main
+[2025-03-21T23:50:33.929Z] debug: 	Saved 2 profiles, took: 6.45ms
+[2025-03-21T23:50:53.947Z] debug: 	Saved 2 profiles, took: 4.46ms
+[2025-03-21T23:50:54.055Z] info: 	[Запрос Клиента] /launcher/profile/info
+[2025-03-21T23:50:54.057Z] info: 	[Запрос Клиента] /launcher/server/version
+[2025-03-21T23:51:13.987Z] debug: 	Saved 2 profiles, took: 7.32ms
+[2025-03-21T23:51:14.136Z] info: 	[Запрос Клиента] /client/game/profile/items/moving
+[2025-03-21T23:51:14.137Z] debug: 	event: Move
+[2025-03-21T23:51:14.137Z] debug: 	Move item: 67ddf7b0c9500b1c1c031f36 from slotid: hideout to container: main
+[2025-03-21T23:51:14.137Z] debug: 	event: Transfer
+[2025-03-21T23:51:14.137Z] debug: 	event: Move
+[2025-03-21T23:51:14.137Z] debug: 	Move item: 67ddf7b0c9500b1c1c031fa2 from slotid: FirstPrimaryWeapon to container: hideout
+[2025-03-21T23:51:14.137Z] debug: 	event: Move
+[2025-03-21T23:51:14.137Z] debug: 	Move item: 67ddf7b0c9500b1c1c031f39 from slotid: hideout to container: FirstPrimaryWeapon
+[2025-03-21T23:51:14.138Z] debug: 	event: Move
+[2025-03-21T23:51:14.138Z] debug: 	Move item: 67ddf7b0c9500b1c1c031efc from slotid: hideout to container: 5
+[2025-03-21T23:51:14.138Z] debug: 	event: Move
+[2025-03-21T23:51:14.138Z] debug: 	Move item: 67ddf7b0c9500b1c1c031fb6 from slotid: 1 to container: hideout
+[2025-03-21T23:51:14.138Z] debug: 	event: Move
+[2025-03-21T23:51:14.138Z] debug: 	Move item: 67ddf7b0c9500b1c1c031edb from slotid: hideout to container: 6
+[2025-03-21T23:51:14.138Z] debug: 	event: Move
+[2025-03-21T23:51:14.138Z] debug: 	Move item: 67ddf7b0c9500b1c1c031fb4 from slotid: 2 to container: hideout
+[2025-03-21T23:51:14.138Z] debug: 	event: Move
+[2025-03-21T23:51:14.138Z] debug: 	Move item: 67ddf7b0c9500b1c1c031f2f from slotid: hideout to container: 1
+[2025-03-21T23:51:14.138Z] debug: 	event: Move
+[2025-03-21T23:51:14.138Z] debug: 	Move item: 67ddf7b0c9500b1c1c031fb8 from slotid: 3 to container: hideout
+[2025-03-21T23:51:14.138Z] debug: 	event: Move
+[2025-03-21T23:51:14.138Z] debug: 	Move item: 67ddf7b0c9500b1c1c031efc from slotid: 5 to container: 2
+[2025-03-21T23:51:14.138Z] debug: 	event: Move
+[2025-03-21T23:51:14.138Z] debug: 	Move item: 67ddf7b0c9500b1c1c031edb from slotid: 6 to container: 3
+[2025-03-21T23:51:14.138Z] debug: 	event: Move
+[2025-03-21T23:51:14.138Z] debug: 	Move item: 67ddf7b0c9500b1c1c031f37 from slotid: hideout to container: main
+[2025-03-21T23:51:14.138Z] debug: 	event: Move
+[2025-03-21T23:51:14.138Z] debug: 	Move item: 67ddf7b0c9500b1c1c031f31 from slotid: hideout to container: main
+[2025-03-21T23:51:14.138Z] debug: 	event: Transfer
+[2025-03-21T23:51:14.138Z] debug: 	event: Move
+[2025-03-21T23:51:14.138Z] debug: 	Move item: 67ddf7b0c9500b1c1c031f28 from slotid: hideout to container: ArmBand
+[2025-03-21T23:51:14.138Z] debug: 	event: Move
+[2025-03-21T23:51:14.138Z] debug: 	Move item: 67ddf7b0c9500b1c1c031f14 from slotid: hideout to container: hideout
+[2025-03-21T23:51:14.139Z] debug: 	event: Move
+[2025-03-21T23:51:14.139Z] debug: 	Move item: 67ddf7b0c9500b1c1c031e8e from slotid: hideout to container: main
+[2025-03-21T23:51:14.139Z] debug: 	event: Move
+[2025-03-21T23:51:14.139Z] debug: 	Move item: 67ddf7b0c9500b1c1c031e85 from slotid: hideout to container: main
+[2025-03-21T23:51:14.139Z] debug: 	event: Move
+[2025-03-21T23:51:14.139Z] debug: 	Move item: 67ddf7b0c9500b1c1c031ecd from slotid: hideout to container: main
+[2025-03-21T23:51:14.139Z] debug: 	event: Move
+[2025-03-21T23:51:14.139Z] debug: 	Move item: 67ddf7b0c9500b1c1c031ec8 from slotid: hideout to container: mod_scope
+[2025-03-21T23:51:14.139Z] debug: 	event: Move
+[2025-03-21T23:51:14.139Z] debug: 	Move item: 67ddf7b0c9500b1c1c031ec5 from slotid: hideout to container: FaceCover
+[2025-03-21T23:51:17.375Z] info: 	[Запрос Клиента] /fika/presence/set
+[2025-03-21T23:51:17.387Z] info: 	[Запрос Клиента] /fika/presence/get
+[2025-03-21T23:51:25.085Z] debug: 	[WS] Пингуем игрока: 67dd9f490003edb807c3a899
+[2025-03-21T23:51:29.032Z] debug: 	Saved 2 profiles, took: 7.08ms
+[2025-03-21T23:51:49.060Z] debug: 	Saved 2 profiles, took: 7.16ms
+[2025-03-21T23:51:54.057Z] info: 	[Запрос Клиента] /launcher/profile/info
+[2025-03-21T23:51:54.058Z] info: 	[Запрос Клиента] /launcher/server/version
+[2025-03-21T23:52:09.073Z] debug: 	Saved 2 profiles, took: 7.17ms
+[2025-03-21T23:52:16.135Z] info: 	[Запрос Клиента] /fika/presence/set
+[2025-03-21T23:52:16.148Z] info: 	[Запрос Клиента] /fika/presence/get
+[2025-03-21T23:52:29.088Z] debug: 	Saved 2 profiles, took: 4.27ms
+[2025-03-21T23:52:30.887Z] debug: 	[Fika Notification Manager] Deleting client 67dd9f490003edb807c3a899
+[2025-03-21T23:52:33.067Z] info: 	[Запрос Клиента] /launcher/profile/info
+[2025-03-21T23:52:33.070Z] info: 	[Запрос Клиента] /launcher/server/version
+[2025-03-21T23:52:49.119Z] debug: 	Saved 2 profiles, took: 5.02ms
+[2025-03-21T23:52:54.903Z] info: 	[Запрос Клиента] /launcher/profile/login
+[2025-03-21T23:52:54.904Z] info: 	[Запрос Клиента] /launcher/profile/get
+[2025-03-21T23:52:54.905Z] info: 	[Запрос Клиента] /launcher/profile/info
+[2025-03-21T23:52:54.906Z] info: 	[Запрос Клиента] /launcher/server/version
+[2025-03-21T23:52:55.095Z] debug: 	[WS] Пингуем игрока: 67dd9f490003edb807c3a899
+[2025-03-21T23:52:55.095Z] debug: 	[WS] Веб-сокет потерян, удаляем соединение
+[2025-03-21T23:53:04.960Z] info: 	[Запрос Клиента] /launcher/profile/login
+[2025-03-21T23:53:04.961Z] info: 	[Запрос Клиента] /launcher/profile/get
+[2025-03-21T23:53:04.962Z] info: 	[Запрос Клиента] /launcher/profile/info
+[2025-03-21T23:53:04.962Z] info: 	[Запрос Клиента] /launcher/server/version
+[2025-03-21T23:53:09.122Z] debug: 	Saved 2 profiles, took: 5.83ms
+[2025-03-21T23:53:12.992Z] info: 	[Запрос Клиента] /launcher/profile/login
+[2025-03-21T23:53:12.993Z] info: 	[Запрос Клиента] /launcher/profile/get
+[2025-03-21T23:53:12.994Z] info: 	[Запрос Клиента] /launcher/profile/info
+[2025-03-21T23:53:12.995Z] info: 	[Запрос Клиента] /launcher/server/version
+[2025-03-22T07:57:32.405Z] debug: 	Importing configs...
+[2025-03-22T07:57:32.456Z] info: 	Commit hash: 51869ce70d9c0a6e11c5bd7b406bca5c806f1269
+[2025-03-22T07:57:32.456Z] info: 	Build date: 1735756224869
+[2025-03-22T07:57:32.500Z] info: 	Загрузчик модов: загружаем 2 мод(ов/а)...
+[2025-03-22T07:57:32.504Z] debug: 	Загрузчик модов: Мод SPTDynamicMaps отсутствует в файле order.json
+[2025-03-22T07:57:32.544Z] info: 	Мод server версии 2.3.6 от Fika загружен
+[2025-03-22T07:57:32.545Z] info: 	Мод SPT-DynamicMaps версии 0.5.3 от mpstark загружен
+[2025-03-22T07:57:32.628Z] info: 	Сервер: выполняем начальные коллбэки...
+[2025-03-22T07:57:32.628Z] debug: 	OS: x64 | Windows 10 Pro | win32
+[2025-03-22T07:57:32.628Z] debug: 	CPU: AMD Ryzen 5 5600 6-Core Processor               cores: 12
+[2025-03-22T07:57:32.628Z] debug: 	RAM: 31.91GB
+[2025-03-22T07:57:32.629Z] debug: 	PATH: RDpcU1BUXFNQVC5TZXJ2ZXIuZXhl
+[2025-03-22T07:57:32.629Z] debug: 	PATH: RDpcU1BUXFNQVC5TZXJ2ZXIuZXhl
+[2025-03-22T07:57:32.629Z] debug: 	Server: 3.10.5
+[2025-03-22T07:57:32.629Z] debug: 	Date: 1735756224869
+[2025-03-22T07:57:32.629Z] debug: 	Commit: 51869ce70d9c0a6e11c5bd7b406bca5c806f1269
+[2025-03-22T07:57:32.630Z] info: 	Импортируем базу данных...
+[2025-03-22T07:57:32.820Z] debug: 	Ошибка проверки файлов для файла: SPT_Data/Server/database/locales/server/ru.json
+[2025-03-22T07:57:36.873Z] info: 	Импорт базы данных завершен.
+[2025-03-22T07:57:36.937Z] debug: 	2 Profiles took: 4.14ms to load.
+[2025-03-22T07:57:40.764Z] debug: 	ID validation took: 1.85ms
+[2025-03-22T07:57:40.764Z] debug: 	Added custom boss wave to bigmap of type pmcUSEC, time: -1, chance: 50, zone: 
+[2025-03-22T07:57:40.765Z] debug: 	Added custom boss wave to bigmap of type pmcBEAR, time: -1, chance: 50, zone: 
+[2025-03-22T07:57:40.765Z] debug: 	Added custom boss wave to woods of type pmcUSEC, time: -1, chance: 50, zone: 
+[2025-03-22T07:57:40.765Z] debug: 	Added custom boss wave to woods of type pmcBEAR, time: -1, chance: 50, zone: 
+[2025-03-22T07:57:40.765Z] debug: 	Added custom boss wave to sandbox_high of type pmcUSEC, time: -1, chance: 50, zone: 
+[2025-03-22T07:57:40.765Z] debug: 	Added custom boss wave to sandbox_high of type pmcBEAR, time: -1, chance: 50, zone: 
+[2025-03-22T07:57:40.767Z] succ: 	Запускаем веб-сервер на http://127.0.0.1:6969
+[2025-03-22T07:57:40.767Z] succ: 	Запустили веб-сокет на ws://127.0.0.1:6969
+[2025-03-22T07:57:40.767Z] succ: 	Сервер запущен, Удачной игры!!
+[2025-03-22T07:57:40.969Z] info: 	[Запрос Клиента] /launcher/server/connect
+[2025-03-22T07:57:40.975Z] debug: 	Profile backup created: user\profiles\backups\2025-03-22_09-57-36
+[2025-03-22T07:57:40.992Z] info: 	[Запрос Клиента] /launcher/ping
+[2025-03-22T07:57:40.994Z] info: 	[Запрос Клиента] /launcher/server/version
+[2025-03-22T07:57:41.000Z] info: 	[Запрос Клиента] /files/launcher/bg.png
+[2025-03-22T07:57:41.010Z] info: 	[Запрос Клиента] /launcher/ping
+[2025-03-22T07:57:41.051Z] info: 	[Запрос Клиента] /launcher/profile/login
+[2025-03-22T07:57:41.054Z] info: 	[Запрос Клиента] /launcher/profile/get
+[2025-03-22T07:57:41.057Z] info: 	[Запрос Клиента] /launcher/profile/info
+[2025-03-22T07:57:41.063Z] info: 	[Запрос Клиента] /launcher/server/version
+[2025-03-22T07:57:41.154Z] info: 	[Запрос Клиента] /launcher/server/loadedServerMods
+[2025-03-22T07:57:41.160Z] info: 	[Запрос Клиента] /launcher/server/serverModsUsedByProfile
+[2025-03-22T07:57:41.164Z] info: 	[Запрос Клиента] /files/launcher/side_bear.png
+[2025-03-22T07:57:41.166Z] info: 	[Запрос Клиента] /launcher/profile/login
+[2025-03-22T07:57:41.168Z] info: 	[Запрос Клиента] /launcher/profile/get
+[2025-03-22T07:57:41.169Z] info: 	[Запрос Клиента] /launcher/profile/info
+[2025-03-22T07:57:41.171Z] info: 	[Запрос Клиента] /launcher/server/version
+[2025-03-22T07:57:45.802Z] debug: 	Saved 2 profiles, took: 7.57ms
+[2025-03-22T08:36:49.504Z] debug: 	Importing configs...
+[2025-03-22T08:36:49.545Z] info: 	Commit hash: 51869ce70d9c0a6e11c5bd7b406bca5c806f1269
+[2025-03-22T08:36:49.546Z] info: 	Build date: 1735756224869
+[2025-03-22T08:36:49.570Z] info: 	Загрузчик модов: загружаем 2 мод(ов/а)...
+[2025-03-22T08:36:49.573Z] debug: 	Загрузчик модов: Мод SPTDynamicMaps отсутствует в файле order.json
+[2025-03-22T08:36:49.588Z] info: 	Мод server версии 2.3.6 от Fika загружен
+[2025-03-22T08:36:49.589Z] info: 	Мод SPT-DynamicMaps версии 0.5.3 от mpstark загружен
+[2025-03-22T08:36:49.664Z] info: 	Сервер: выполняем начальные коллбэки...
+[2025-03-22T08:36:49.665Z] debug: 	OS: x64 | Windows 10 Pro | win32
+[2025-03-22T08:36:49.665Z] debug: 	CPU: AMD Ryzen 5 5600 6-Core Processor               cores: 12
+[2025-03-22T08:36:49.665Z] debug: 	RAM: 31.91GB
+[2025-03-22T08:36:49.665Z] debug: 	PATH: RDpcU1BUXFNQVC5TZXJ2ZXIuZXhl
+[2025-03-22T08:36:49.666Z] debug: 	PATH: RDpcU1BUXFNQVC5TZXJ2ZXIuZXhl
+[2025-03-22T08:36:49.666Z] debug: 	Server: 3.10.5
+[2025-03-22T08:36:49.666Z] debug: 	Date: 1735756224869
+[2025-03-22T08:36:49.666Z] debug: 	Commit: 51869ce70d9c0a6e11c5bd7b406bca5c806f1269
+[2025-03-22T08:36:49.667Z] info: 	Импортируем базу данных...
+[2025-03-22T08:36:49.828Z] debug: 	Ошибка проверки файлов для файла: SPT_Data/Server/database/locales/server/ru.json
+[2025-03-22T08:36:53.952Z] info: 	Импорт базы данных завершен.
+[2025-03-22T08:36:53.999Z] debug: 	2 Profiles took: 3.83ms to load.
+[2025-03-22T08:36:58.074Z] debug: 	ID validation took: 1.49ms
+[2025-03-22T08:36:58.075Z] debug: 	Added custom boss wave to bigmap of type pmcUSEC, time: -1, chance: 50, zone: 
+[2025-03-22T08:36:58.075Z] debug: 	Added custom boss wave to bigmap of type pmcBEAR, time: -1, chance: 50, zone: 
+[2025-03-22T08:36:58.075Z] debug: 	Added custom boss wave to woods of type pmcUSEC, time: -1, chance: 50, zone: 
+[2025-03-22T08:36:58.075Z] debug: 	Added custom boss wave to woods of type pmcBEAR, time: -1, chance: 50, zone: 
+[2025-03-22T08:36:58.075Z] debug: 	Added custom boss wave to sandbox_high of type pmcUSEC, time: -1, chance: 50, zone: 
+[2025-03-22T08:36:58.075Z] debug: 	Added custom boss wave to sandbox_high of type pmcBEAR, time: -1, chance: 50, zone: 
+[2025-03-22T08:36:58.078Z] succ: 	Запускаем веб-сервер на http://127.0.0.1:6969
+[2025-03-22T08:36:58.078Z] succ: 	Запустили веб-сокет на ws://127.0.0.1:6969
+[2025-03-22T08:36:58.078Z] succ: 	Сервер запущен, Удачной игры!!
+[2025-03-22T08:36:58.271Z] debug: 	Profile backup created: user\profiles\backups\2025-03-22_10-36-53
+[2025-03-22T08:36:58.457Z] info: 	[Запрос Клиента] /launcher/server/connect
+[2025-03-22T08:36:58.477Z] info: 	[Запрос Клиента] /launcher/ping
+[2025-03-22T08:36:58.479Z] info: 	[Запрос Клиента] /launcher/server/version
+[2025-03-22T08:36:58.484Z] info: 	[Запрос Клиента] /files/launcher/bg.png
+[2025-03-22T08:36:58.493Z] info: 	[Запрос Клиента] /launcher/ping
+[2025-03-22T08:36:58.537Z] info: 	[Запрос Клиента] /launcher/profile/login
+[2025-03-22T08:36:58.540Z] info: 	[Запрос Клиента] /launcher/profile/get
+[2025-03-22T08:36:58.544Z] info: 	[Запрос Клиента] /launcher/profile/info
+[2025-03-22T08:36:58.550Z] info: 	[Запрос Клиента] /launcher/server/version
+[2025-03-22T08:36:58.637Z] info: 	[Запрос Клиента] /launcher/server/loadedServerMods
+[2025-03-22T08:36:58.645Z] info: 	[Запрос Клиента] /launcher/server/serverModsUsedByProfile
+[2025-03-22T08:36:58.649Z] info: 	[Запрос Клиента] /files/launcher/side_bear.png
+[2025-03-22T08:36:58.651Z] info: 	[Запрос Клиента] /launcher/profile/login
+[2025-03-22T08:36:58.653Z] info: 	[Запрос Клиента] /launcher/profile/get
+[2025-03-22T08:36:58.654Z] info: 	[Запрос Клиента] /launcher/profile/info
+[2025-03-22T08:36:58.656Z] info: 	[Запрос Клиента] /launcher/server/version
+[2025-03-22T08:37:03.103Z] debug: 	Saved 2 profiles, took: 7.86ms
+[2025-03-22T08:37:14.068Z] info: 	[Запрос Клиента] /launcher/profile/login
+[2025-03-22T08:37:14.070Z] info: 	[Запрос Клиента] /launcher/profile/get
+[2025-03-22T08:37:14.071Z] info: 	[Запрос Клиента] /launcher/profile/info
+[2025-03-22T08:37:14.073Z] info: 	[Запрос Клиента] /launcher/server/version
+[2025-03-22T08:37:17.589Z] info: 	[Запрос Клиента] /launcher/profile/login
+[2025-03-22T08:37:17.592Z] info: 	[Запрос Клиента] /launcher/profile/get
+[2025-03-22T08:37:17.593Z] info: 	[Запрос Клиента] /launcher/profile/info
+[2025-03-22T08:37:17.594Z] info: 	[Запрос Клиента] /launcher/server/version
+[2025-03-22T08:37:17.601Z] info: 	[Запрос Клиента] /launcher/server/version
+[2025-03-22T08:37:23.133Z] debug: 	Saved 2 profiles, took: 2.86ms
+[2025-03-22T08:37:23.468Z] info: 	[Запрос Клиента] /singleplayer/bossconvert
+[2025-03-22T08:37:24.178Z] info: 	[Запрос Клиента] /fika/natpunchserver/config
+[2025-03-22T08:37:24.575Z] info: 	[Запрос Клиента] /fika/client/config
+[2025-03-22T08:37:24.601Z] info: 	[Запрос Клиента] /singleplayer/settings/bot/difficulties/
+[2025-03-22T08:37:24.720Z] info: 	[Запрос Клиента] /singleplayer/settings/bot/difficulty/core/core
+[2025-03-22T08:37:28.584Z] info: 	[Запрос Клиента] /singleplayer/settings/version
+[2025-03-22T08:37:28.586Z] info: 	[Запрос Клиента] /singleplayer/release
+[2025-03-22T08:37:28.592Z] info: 	[Запрос Клиента] /singleplayer/moddedTraders
+[2025-03-22T08:37:28.596Z] info: 	[Запрос Клиента] /singleplayer/enableBSGlogging
+[2025-03-22T08:37:29.146Z] info: 	[Запрос Клиента] /singleplayer/bundles
+[2025-03-22T08:37:34.303Z] info: 	[Запрос Клиента] /singleplayer/settings/version
+[2025-03-22T08:37:34.371Z] info: 	[Запрос Клиента] /client/menu/locale/ru
+[2025-03-22T08:37:34.422Z] info: 	[Запрос Клиента] /client/game/mode
+[2025-03-22T08:37:34.456Z] info: 	[Запрос Клиента] /client/game/start
+[2025-03-22T08:37:34.457Z] debug: 	Started game with sessionId: 67dd9f490003edb807c3a899 Homa_690
+[2025-03-22T08:37:34.459Z] debug: 	Quest Production Unlock validation took: 0.02ms
+[2025-03-22T08:37:34.460Z] debug: 	Profile made with: 3.10.5 (33420)
+[2025-03-22T08:37:34.460Z] debug: 	Server version: 3.10.5 51869ce70d9c0a6e11c5bd7b406bca5c806f1269
+[2025-03-22T08:37:34.460Z] debug: 	Debug enabled: false
+[2025-03-22T08:37:34.460Z] debug: 	Mods enabled: true
+[2025-03-22T08:37:34.514Z] info: 	[Запрос Клиента] /client/game/version/validate
+[2025-03-22T08:37:34.559Z] info: 	[Запрос Клиента] /client/languages
+[2025-03-22T08:37:34.610Z] info: 	[Запрос Клиента] /client/game/config
+[2025-03-22T08:37:37.416Z] info: 	[Запрос Клиента] /fika/client/check/version
+[2025-03-22T08:37:37.429Z] info: 	[Запрос Клиента] /fika/client/check/mods
+[2025-03-22T08:37:37.929Z] info: 	[Запрос Клиента] /client/items
+[2025-03-22T08:37:43.150Z] debug: 	Saved 2 profiles, took: 4.53ms
+[2025-03-22T08:37:45.717Z] info: 	[Запрос Клиента] /client/customization
+[2025-03-22T08:37:45.944Z] info: 	[Запрос Клиента] /client/globals
+[2025-03-22T08:37:46.647Z] info: 	[Запрос Клиента] /client/trading/api/traderSettings
+[2025-03-22T08:37:46.717Z] info: 	[Запрос Клиента] /client/settings
+[2025-03-22T08:37:46.766Z] info: 	[Запрос Клиента] /client/game/profile/list
+[2025-03-22T08:37:46.975Z] info: 	[Запрос Клиента] /client/game/profile/select
+[2025-03-22T08:37:47.002Z] info: 	[Запрос Клиента] /client/profile/status
+[2025-03-22T08:37:47.072Z] info: 	[Запрос Клиента] /client/weather
+[2025-03-22T08:37:47.074Z] info: 	[Запрос Клиента] /client/locale/ru
+[2025-03-22T08:37:47.075Z] info: 	[Запрос Клиента] /client/locations
+[2025-03-22T08:37:47.118Z] debug: 	Map: base has no base json file, skipping generation
+[2025-03-22T08:37:48.214Z] info: 	[Запрос Клиента] /client/handbook/templates
+[2025-03-22T08:37:49.681Z] info: 	[Запрос Клиента] /client/hideout/areas
+[2025-03-22T08:37:49.813Z] info: 	[Запрос Клиента] /client/hideout/qte/list
+[2025-03-22T08:37:49.844Z] info: 	[Запрос Клиента] /client/hideout/settings
+[2025-03-22T08:37:49.899Z] info: 	[Запрос Клиента] /client/hideout/production/recipes
+[2025-03-22T08:37:50.047Z] info: 	[Запрос Клиента] /client/builds/list
+[2025-03-22T08:37:50.160Z] debug: 	[Fika Notification Manager] User is 67dd9f490003edb807c3a899
+[2025-03-22T08:37:50.161Z] debug: 	[Fika Presence] Adding player: Homa_690
+[2025-03-22T08:37:50.161Z] info: 	WebSocketHandler "Fika Notification Manager" connected
+[2025-03-22T08:37:52.019Z] info: 	[Запрос Клиента] /singleplayer/log
+[2025-03-22T08:37:52.020Z] debug: 	[SPT.Core] 1184960
+[2025-03-22T08:37:52.021Z] info: 	[Запрос Клиента] /singleplayer/log
+[2025-03-22T08:37:52.021Z] debug: 	[SPT.Core] 1498960
+[2025-03-22T08:37:52.022Z] info: 	[Запрос Клиента] /singleplayer/log
+[2025-03-22T08:37:52.023Z] debug: 	[SPT.Core] 0
+[2025-03-22T08:37:52.982Z] info: 	[Запрос Клиента] /client/notifier/channel/create
+[2025-03-22T08:37:52.984Z] info: 	[Запрос Клиента] /client/profile/status
+[2025-03-22T08:37:52.984Z] info: 	[Запрос Клиента] /client/trading/customization/storage
+[2025-03-22T08:37:53.010Z] info: 	[WS] Игрок: Homa_690 (67dd9f490003edb807c3a899) присоединился
+[2025-03-22T08:37:53.011Z] info: 	WebSocketHandler "SPT WebSocket Handler" connected
+[2025-03-22T08:37:53.035Z] info: 	[Запрос Клиента] /client/server/list
+[2025-03-22T08:37:53.036Z] info: 	[Запрос Клиента] /client/match/group/current
+[2025-03-22T08:37:53.037Z] info: 	[Запрос Клиента] /client/friend/list
+[2025-03-22T08:37:53.038Z] info: 	[Запрос Клиента] /client/friend/request/list/inbox
+[2025-03-22T08:37:53.039Z] info: 	[Запрос Клиента] /client/friend/request/list/outbox
+[2025-03-22T08:37:53.040Z] info: 	[Запрос Клиента] /client/mail/dialog/list
+[2025-03-22T08:37:53.041Z] info: 	[Запрос Клиента] /client/quest/list
+[2025-03-22T08:37:53.132Z] info: 	[Запрос Клиента] /client/achievement/statistic
+[2025-03-22T08:37:53.186Z] info: 	[Запрос Клиента] /client/achievement/list
+[2025-03-22T08:37:53.348Z] info: 	[Запрос Клиента] /client/repeatalbeQuests/activityPeriods
+[2025-03-22T08:37:53.349Z] debug: 	Daily scav quests still locked, Intel center not built
+[2025-03-22T08:37:53.401Z] info: 	[Запрос Клиента] /client/survey
+[2025-03-22T08:37:53.888Z] info: 	[Запрос Клиента] /fika/presence/get
+[2025-03-22T08:38:03.171Z] debug: 	Saved 2 profiles, took: 4.52ms
+[2025-03-22T08:38:03.894Z] info: 	[Запрос Клиента] /fika/presence/get
+[2025-03-22T08:38:13.903Z] info: 	[Запрос Клиента] /fika/presence/get
+[2025-03-22T08:38:18.213Z] info: 	[Запрос Клиента] /launcher/profile/info
+[2025-03-22T08:38:18.215Z] info: 	[Запрос Клиента] /launcher/server/version
+[2025-03-22T08:38:23.216Z] debug: 	Saved 2 profiles, took: 3.98ms
+[2025-03-22T08:38:23.909Z] info: 	[Запрос Клиента] /fika/presence/get
+[2025-03-22T08:38:33.918Z] info: 	[Запрос Клиента] /fika/presence/get
+[2025-03-22T08:38:43.243Z] debug: 	Saved 2 profiles, took: 5.61ms
+[2025-03-22T08:38:43.933Z] info: 	[Запрос Клиента] /fika/presence/get
+[2025-03-22T08:38:53.940Z] info: 	[Запрос Клиента] /fika/presence/get
+[2025-03-22T08:39:03.261Z] debug: 	Saved 2 profiles, took: 3.99ms
+[2025-03-22T08:39:03.940Z] info: 	[Запрос Клиента] /fika/presence/get
+[2025-03-22T08:39:13.957Z] info: 	[Запрос Клиента] /fika/presence/get
+[2025-03-22T08:39:23.012Z] debug: 	[WS] Пингуем игрока: 67dd9f490003edb807c3a899
+[2025-03-22T08:39:23.288Z] debug: 	Saved 2 profiles, took: 4.12ms
+[2025-03-22T08:39:23.965Z] info: 	[Запрос Клиента] /fika/presence/get
+[2025-03-22T08:39:33.966Z] info: 	[Запрос Клиента] /fika/presence/get
+[2025-03-22T08:39:39.124Z] debug: 	[Fika Notification Manager] Deleting client 67dd9f490003edb807c3a899
+[2025-03-22T08:39:43.320Z] debug: 	Saved 2 profiles, took: 4.34ms
